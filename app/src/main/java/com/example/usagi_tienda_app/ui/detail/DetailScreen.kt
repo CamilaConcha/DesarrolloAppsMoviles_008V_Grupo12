@@ -13,6 +13,8 @@ import com.example.usagi_tienda_app.data.Figure
 import com.example.usagi_tienda_app.Routes
 import kotlinx.coroutines.launch
 import android.util.Log
+import com.example.usagi_tienda_app.ui.components.UsagiTopBar
+import java.util.Locale
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -44,16 +46,12 @@ fun DetailScreen(navController: NavController, figureId: Long) {
 
     Scaffold(
         topBar = {
-            // Barra superior con título y acceso rápido al carrito.
-            TopAppBar(
-                title = { Text(figure?.name ?: "Detalle", fontWeight = FontWeight.SemiBold) },
-                actions = {
-                    val cartItems by com.example.usagi_tienda_app.data.CartStore.items.collectAsState()
-                    val cartCount = com.example.usagi_tienda_app.data.CartStore.count()
-                    TextButton(onClick = { navController.navigate(com.example.usagi_tienda_app.Routes.CART) }) {
-                        Text("Carrito ($cartCount)")
-                    }
-                }
+            // Barra superior consistente
+            UsagiTopBar(
+                navController = navController,
+                title = figure?.name ?: "Detalle",
+                showBack = true,
+                showCartAction = true
             )
         },
         snackbarHost = { SnackbarHost(hostState = snackbarHostState) }
@@ -99,7 +97,7 @@ fun DetailScreen(navController: NavController, figureId: Long) {
                     )
                     
                     Text(
-                        text = "Precio: $${String.format("%.2f", figure.price)}", 
+                        text = "Precio: $${String.format(Locale.getDefault(), "%.2f", figure.price.toDouble())}",
                         style = MaterialTheme.typography.titleMedium,
                         color = MaterialTheme.colorScheme.primary
                     )

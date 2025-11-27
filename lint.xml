@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- Suprime recomendaciones de versiones nuevas para evitar ruido -->
+    <issue id="NewerVersionAvailable" severity="ignore" />
+    <issue id="GradleDependency" severity="ignore" />
+    <!-- Alineación 16KB de librería nativa del MLKit: no controlable aquí -->
+    <issue id="Aligned16KB" severity="ignore" />
+    <!-- Preferencia del proyecto: usar Version Catalog (TOML) -->
+    <issue id="UseTomlInstead" severity="ignore" />
+    <!-- Recursos no usados: mantener como warning para mantenimiento futuro -->
+</lint>

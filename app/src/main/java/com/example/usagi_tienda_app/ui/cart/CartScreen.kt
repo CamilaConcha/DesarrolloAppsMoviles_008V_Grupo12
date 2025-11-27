@@ -15,6 +15,7 @@ import androidx.navigation.NavController
 import com.example.usagi_tienda_app.data.CartStore
 import com.example.usagi_tienda_app.data.CartItem
 import com.example.usagi_tienda_app.data.CouponStore
+import com.example.usagi_tienda_app.ui.components.UsagiTopBar
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -24,8 +25,12 @@ fun CartScreen(navController: NavController) {
 
     Scaffold(
         topBar = {
-            // barra superior con el titulo de la pantalla
-            TopAppBar(title = { Text("Carrito", fontWeight = FontWeight.SemiBold) })
+            // Barra superior consistente
+            UsagiTopBar(
+                navController = navController,
+                title = "Carrito",
+                showBack = true
+            )
         }
     ) { padding ->
         Column(
@@ -55,22 +60,24 @@ fun CartScreen(navController: NavController) {
                 val discount = (subtotal * discountRate).toInt()
                 val total = subtotal - discount
 
-                Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-                    Text("Subtotal: $${subtotal}", style = MaterialTheme.typography.titleMedium)
-                    if (appliedCode != null) {
-                        val percent = (discountRate * 100).toInt()
-                        Text("Cupón: ${appliedCode} (-${percent}%)", style = MaterialTheme.typography.bodyMedium)
-                        Text("Descuento: -$${discount}", style = MaterialTheme.typography.bodyMedium)
-                        OutlinedButton(onClick = { CouponStore.clear() }) { Text("Quitar cupón") }
+                Card {
+                    Column(modifier = Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                        Text("Subtotal: $${subtotal}", style = MaterialTheme.typography.titleMedium)
+                        if (appliedCode != null) {
+                            val percent = (discountRate * 100).toInt()
+                            Text("Cupón: ${appliedCode} (-${percent}%)", style = MaterialTheme.typography.bodyMedium)
+                            Text("Descuento: -$${discount}", style = MaterialTheme.typography.bodyMedium)
+                            OutlinedButton(onClick = { CouponStore.clear() }) { Text("Quitar cupón") }
+                        }
+                        Text("Total: $${total}", style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold)
                     }
-                    Text("Total: $${total}", style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold)
-                    Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                        OutlinedButton(onClick = { CartStore.clear() }) { Text("Vaciar carrito") }
-                        Button(onClick = { /* TODO: flujo de compra */ }, enabled = false) { Text("Comprar (pronto)") }
-                        Button(onClick = { navController.navigate(com.example.usagi_tienda_app.Routes.COUPON_SCAN) }) { Text("Escanear cupón") }
-                    }
-                    OutlinedButton(onClick = { navController.popBackStack() }) { Text("Volver") }
                 }
+                Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    OutlinedButton(onClick = { CartStore.clear() }) { Text("Vaciar carrito") }
+                    Button(onClick = { navController.navigate(com.example.usagi_tienda_app.Routes.CHECKOUT) }, enabled = items.isNotEmpty()) { Text("Comprar") }
+                    Button(onClick = { navController.navigate(com.example.usagi_tienda_app.Routes.COUPON_SCAN) }) { Text("Escanear cupón") }
+                }
+                OutlinedButton(onClick = { navController.popBackStack() }) { Text("Volver") }
             }
         }
     }

@@ -13,8 +13,8 @@ data class Figure(
 )
 
 /**
- * catalogo de productos de ejemplo mock usado por la app
- * actualizado con items inspirados en chiikawa y merch afin
+ * Catálogo mock que uso para pruebas y demostraciones.
+ * Incluye ítems inspirados en Chiikawa y merchandising afín.
  */
 object MockCatalog {
     val figures: List<Figure> = listOf(

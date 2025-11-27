@@ -19,3 +19,7 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+# Preservar atributos necesarios para reflexión y anotaciones en tiempo de ejecución.
+# Incluye: Signature, RuntimeVisibleAnnotations, AnnotationDefault, EnclosingMethod, InnerClasses
+-keepattributes Signature,RuntimeVisibleAnnotations,AnnotationDefault,EnclosingMethod,InnerClasses

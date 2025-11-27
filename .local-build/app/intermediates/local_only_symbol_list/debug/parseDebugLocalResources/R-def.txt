@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action_back
+string action_cart
+string app_name
+string catalog_explore
+string filter_accesorios
+string filter_all
+string filter_chiikawa
+string filter_llaveros
+string filter_peluches
+string home_desc
+string home_view_cart
+string home_view_catalog
+string home_view_photos
+string home_welcome
+string title_catalog
+string title_coupon_scan
+string title_home
+string title_photos
+style Theme.Usagitiendaapp
+xml backup_rules
+xml data_extraction_rules

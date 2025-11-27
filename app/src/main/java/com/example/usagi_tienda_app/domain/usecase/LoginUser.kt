@@ -8,7 +8,6 @@ class LoginUser(private val repository: UserRepository) {
         val e = email.trim()
         val p = password
         if (e.isEmpty() || p.isEmpty()) {
-            // Si falta algo, tratamos como email no registrado para mantener la UX simple
             return LoginResult.EmailNotFound
         }
         return repository.login(e, p)

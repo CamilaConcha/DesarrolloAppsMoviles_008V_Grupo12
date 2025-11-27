@@ -23,6 +23,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.usagi_tienda_app.theme.UsagiTheme
 import android.content.res.Configuration
 import android.util.Log
+import com.example.usagi_tienda_app.ui.components.UsagiTopBar
 
 @Composable
 fun LoginScreen(navController: NavController) {
@@ -70,6 +71,13 @@ fun LoginScreen(navController: NavController) {
     }
 
     Scaffold(
+        topBar = {
+            UsagiTopBar(
+                navController = navController,
+                title = "Usagi Tienda",
+                showBack = false
+            )
+        },
         snackbarHost = { SnackbarHost(snackbarHostState) }
     ) { padding ->
         Column(

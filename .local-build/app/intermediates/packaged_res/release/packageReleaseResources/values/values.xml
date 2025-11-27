@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_back">Volver</string>
+    <string name="action_cart">Carrito (%1$d)</string>
+    <string name="app_name">usagi-tienda-app</string>
+    <string name="catalog_explore">Explora los productos por categoría</string>
+    <string name="filter_accesorios">Accesorios</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_chiikawa">Chiikawa</string>
+    <string name="filter_llaveros">Llaveros</string>
+    <string name="filter_peluches">Peluches</string>
+    <string name="home_desc">Explora categorías como Chiikawa, Peluches, Llaveros y Accesorios.</string>
+    <string name="home_view_cart">Ver carrito (%1$d)</string>
+    <string name="home_view_catalog">Ver catálogo</string>
+    <string name="home_view_photos">Ver fotos remotas</string>
+    <string name="home_welcome">Bienvenido a la tienda</string>
+    <string name="title_catalog">Catálogo</string>
+    <string name="title_coupon_scan">Escanear cupón</string>
+    <string name="title_home">Usagi Figures</string>
+    <string name="title_photos">Fotos remotas</string>
+    <style name="Theme.Usagitiendaapp" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

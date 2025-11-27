@@ -8,10 +8,10 @@ object SecurityUtils {
     private const val SALT_BYTES = 16
 
     /**
-     * Utilidades de seguridad básicas para hashing de contraseñas.
+     * Utilidades de seguridad básicas que uso para hashing de contraseñas.
      * - `generateSalt()`: crea un salt aleatorio.
-     * - `hashPassword(password, salt)`: retorna el hash seguro para comparar/almacenar.
-     * Nota: en producción se recomienda usar algoritmos de hashing lentos (p.ej. PBKDF2, bcrypt).
+     * - `hashPassword(password, salt)`: retorna el hash para comparar/almacenar.
+     * En producción prefiero algoritmos de hashing lentos (p.ej. PBKDF2, bcrypt).
      */
     fun generateSalt(): String {
         val bytes = ByteArray(SALT_BYTES)

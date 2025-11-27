@@ -15,6 +15,9 @@ import androidx.navigation.NavController
 import android.util.Log
 import androidx.core.content.ContextCompat
 import androidx.compose.ui.unit.dp
+import com.example.usagi_tienda_app.ui.components.UsagiTopBar
+import androidx.compose.ui.res.stringResource
+import com.example.usagi_tienda_app.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -47,11 +50,10 @@ fun CouponScannerScreen(navController: NavController) {
 
     Scaffold(
         topBar = {
-            TopAppBar(
-                title = { Text("Escanear cupón") },
-                navigationIcon = {
-                    TextButton(onClick = { navController.popBackStack() }) { Text("Volver") }
-                }
+            UsagiTopBar(
+                navController = navController,
+                title = stringResource(R.string.title_coupon_scan),
+                showBack = true
             )
         }
     ) { padding ->
@@ -96,14 +98,15 @@ fun CouponScannerScreen(navController: NavController) {
                 ) {
                     Text(text = "✅", style = MaterialTheme.typography.displayLarge)
                     Text(text = "Cámara lista para escanear", style = MaterialTheme.typography.titleMedium)
-                    Text(text = "Funcionalidad de escaneo en desarrollo", style = MaterialTheme.typography.bodyMedium)
+                    Text(text = "Escaneo de cupones pendiente de implementación", style = MaterialTheme.typography.bodyMedium)
 
                     Card(modifier = Modifier.fillMaxWidth(0.8f)) {
                         Column(
                             modifier = Modifier.padding(16.dp),
                             verticalArrangement = Arrangement.spacedBy(8.dp)
                         ) {
-                            Text(text = "Cupones de prueba:", style = MaterialTheme.typography.titleSmall)
+                            // Línea eliminada:
+                            // Text(text = "Cupones de prueba:", style = MaterialTheme.typography.titleSmall)
 
                             Button(
                                 onClick = {
@@ -121,25 +124,9 @@ fun CouponScannerScreen(navController: NavController) {
                                     }
                                 },
                                 modifier = Modifier.fillMaxWidth()
-                            ) { Text("Simular: USAGI10 (10% desc.)") }
+                            ) { Text("Aplicar USAGI10 (10% desc.)") }
 
-                            Button(
-                                onClick = {
-                                    try {
-                                        val success = com.example.usagi_tienda_app.data.CouponStore.apply("CHIIKAWA5")
-                                        if (success) {
-                                            Toast.makeText(context, "Cupón CHIIKAWA5 aplicado (5% descuento)", Toast.LENGTH_LONG).show()
-                                            navController.popBackStack()
-                                        } else {
-                                            Toast.makeText(context, "Error aplicando cupón", Toast.LENGTH_SHORT).show()
-                                        }
-                                    } catch (e: Exception) {
-                                        Log.e("CouponScannerScreen", "error aplicando cupon CHIIKAWA5", e)
-                                        Toast.makeText(context, "Error al aplicar cupón", Toast.LENGTH_SHORT).show()
-                                    }
-                                },
-                                modifier = Modifier.fillMaxWidth()
-                            ) { Text("Simular: CHIIKAWA5 (5% desc.)") }
+                            // Aplico cupón de ejemplo desde esta vista de escaneo
                         }
                     }
 

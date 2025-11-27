@@ -17,6 +17,9 @@ import com.example.usagi_tienda_app.Routes
 import com.example.usagi_tienda_app.data.FavoriteCategory
 import com.example.usagi_tienda_app.data.Figure
 import com.example.usagi_tienda_app.data.MockCatalog
+import com.example.usagi_tienda_app.ui.components.UsagiTopBar
+import androidx.compose.ui.res.stringResource
+import com.example.usagi_tienda_app.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -29,9 +32,9 @@ fun CatalogScreen(navController: NavController) {
     // fila de filtros de categoria
     // lista de productos filtrados al hacer click vamos al detalle
     // filtros simples todos chiikawa peluches llaveros accesorios
-    // chip basico cambia color segun seleccion
-    // tarjeta simple muestra nombre precio y categoria
-    // implementacion simple de flowrow usando row con espaciado no es un flowrow real
+    // chip de categoría con cambio visual al seleccionar
+    // tarjeta de producto con nombre, precio y categoría
+    // Distribución basada en Row con espaciado horizontal (simple y directa)
     var selectedCategory by remember { mutableStateOf<FavoriteCategory?>(null) }
 
     // Filtramos los productos según la categoría seleccionada.
@@ -46,14 +49,12 @@ fun CatalogScreen(navController: NavController) {
 
     Scaffold(
         topBar = {
-            // Barra superior con título y acceso rápido al carrito.
-            TopAppBar(
-                title = { Text("Catálogo", fontWeight = FontWeight.SemiBold) },
-                actions = {
-                    TextButton(onClick = { navController.navigate(com.example.usagi_tienda_app.Routes.CART) }) {
-                        Text("Carrito ($cartCount)")
-                    }
-                }
+            // Barra superior consistente
+            UsagiTopBar(
+                navController = navController,
+                title = stringResource(R.string.title_catalog),
+                showBack = true,
+                showCartAction = true
             )
         }
     ) { padding ->
@@ -66,7 +67,7 @@ fun CatalogScreen(navController: NavController) {
             horizontalAlignment = Alignment.Start
         ) {
             Text(
-                text = "Explora los productos por categoría",
+                text = stringResource(R.string.catalog_explore),
                 style = MaterialTheme.typography.titleMedium
             )
 
@@ -88,31 +89,39 @@ private fun CategoryFilterRow(
     selectedCategory: FavoriteCategory?,
     onSelected: (FavoriteCategory?) -> Unit
 ) {
-    // Filtros simples: Todos, Chiikawa, Peluches, Llaveros, Accesorios.
+    // Defino filtros: Todos, Chiikawa, Peluches, Llaveros, Accesorios.
     FlowRow(horizontalGap = 8.dp, verticalGap = 8.dp) {
-        FilterChip(label = "Todos", selected = selectedCategory == null) { onSelected(null) }
-        FilterChip(label = "Chiikawa", selected = selectedCategory == FavoriteCategory.CHIIKAWA) { onSelected(FavoriteCategory.CHIIKAWA) }
-        FilterChip(label = "Peluches", selected = selectedCategory == FavoriteCategory.PELUCHES) { onSelected(FavoriteCategory.PELUCHES) }
-        FilterChip(label = "Llaveros", selected = selectedCategory == FavoriteCategory.LLAVEROS) { onSelected(FavoriteCategory.LLAVEROS) }
-        FilterChip(label = "Accesorios", selected = selectedCategory == FavoriteCategory.ACCESORIOS) { onSelected(FavoriteCategory.ACCESORIOS) }
+        FilterChip(label = stringResource(R.string.filter_all), selected = selectedCategory == null) { onSelected(null) }
+        FilterChip(label = stringResource(R.string.filter_chiikawa), selected = selectedCategory == FavoriteCategory.CHIIKAWA) { onSelected(FavoriteCategory.CHIIKAWA) }
+        FilterChip(label = stringResource(R.string.filter_peluches), selected = selectedCategory == FavoriteCategory.PELUCHES) { onSelected(FavoriteCategory.PELUCHES) }
+        FilterChip(label = stringResource(R.string.filter_llaveros), selected = selectedCategory == FavoriteCategory.LLAVEROS) { onSelected(FavoriteCategory.LLAVEROS) }
+        FilterChip(label = stringResource(R.string.filter_accesorios), selected = selectedCategory == FavoriteCategory.ACCESORIOS) { onSelected(FavoriteCategory.ACCESORIOS) }
     }
 }
 
 @Composable
 private fun FilterChip(label: String, selected: Boolean, onClick: () -> Unit) {
-    // Chip básico: cambia color según si está seleccionado.
-    OutlinedButton(onClick = onClick, colors = ButtonDefaults.outlinedButtonColors()) {
-        Text(if (selected) "✓ $label" else label)
-    }
+    // Chip Material3 nativo para mejor visual y consistencia
+    androidx.compose.material3.FilterChip(
+        onClick = onClick,
+        label = { Text(label) },
+        selected = selected
+    )
 }
 
 @Composable
 private fun FigureCard(fig: Figure, onClick: () -> Unit) {
-    // Tarjeta simple que muestra nombre, precio y categoría.
+    // Tarjeta con mejor espaciado y área clicable completa
     Card {
-        Column(modifier = Modifier.padding(12.dp).clickable { onClick() }) {
+        Column(
+            modifier = Modifier
+                .fillMaxWidth()
+                .clickable { onClick() }
+                .padding(12.dp),
+            verticalArrangement = Arrangement.spacedBy(4.dp)
+        ) {
             Text(fig.name, style = MaterialTheme.typography.titleMedium)
-            Text(text = "$${fig.price}", style = MaterialTheme.typography.bodyMedium)
+            Text(text = "$${fig.price}", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary)
             Text(text = categoryLabel(fig.category), style = MaterialTheme.typography.labelMedium)
         }
     }
@@ -125,8 +134,7 @@ private fun categoryLabel(cat: FavoriteCategory): String = when (cat) {
     FavoriteCategory.ACCESORIOS -> "Accesorios"
 }
 
-// Implementación simple de FlowRow usando Row con espaciado.
-// NOTA: Esto no es un FlowRow real; sirve para distribuir chips con espacio horizontal.
+// Distribución de chips basada en Row con espaciado horizontal.
 @Composable
 private fun FlowRow(
     modifier: Modifier = Modifier,

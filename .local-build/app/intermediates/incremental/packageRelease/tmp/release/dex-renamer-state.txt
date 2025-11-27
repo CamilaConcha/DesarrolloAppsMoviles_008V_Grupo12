@@ -1,0 +1,4 @@
+#Thu Nov 27 20:05:15 CLST 2025
+base.0=C\:\\Users\\basti\\OneDrive\\Escritorio\\usagi-tienda-app\\.local-build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

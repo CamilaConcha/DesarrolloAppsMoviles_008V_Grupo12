@@ -1,6 +1,7 @@
 package com.example.usagi_tienda_app.data
 
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.mutableDoubleStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
 import android.util.Log
@@ -11,7 +12,7 @@ object CouponStore {
     val appliedCoupon: String? get() = _appliedCoupon
 
     // descuento actual con validacion
-    private var _discount by mutableStateOf(0.0)
+    private var _discount by mutableDoubleStateOf(0.0)
     val discount: Double get() = _discount
 
     // cupones validos con sus descuentos

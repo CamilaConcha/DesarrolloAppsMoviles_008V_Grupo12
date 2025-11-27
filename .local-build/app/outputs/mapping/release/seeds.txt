@@ -1,0 +1,1813 @@
+androidx.appcompat.widget.ViewStubCompat
+androidx.navigation.NavGraphNavigator
+androidx.appcompat.widget.AlertDialogLayout
+androidx.lifecycle.SavedStateHandlesVM
+androidx.compose.foundation.layout.IntrinsicWidthElement
+com.google.mlkit.common.internal.CommonComponentRegistrar
+androidx.compose.ui.input.pointer.PointerHoverIconModifierElement
+android.support.v4.app.RemoteActionCompatParcelizer
+androidx.appcompat.widget.FitWindowsLinearLayout
+com.google.android.gms.common.annotation.KeepName
+androidx.camera.core.impl.MetadataHolderService
+androidx.compose.foundation.ScrollSemanticsElement
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+com.google.android.gms.common.util.DynamiteApi
+androidx.camera.camera2.Camera2Config$DefaultProvider
+androidx.compose.foundation.lazy.layout.TraversablePrefetchStateModifierElement
+androidx.versionedparcelable.ParcelImpl
+androidx.compose.foundation.ClickableElement
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1
+com.google.android.gms.common.ErrorDialogFragment
+androidx.profileinstaller.ProfileInstallerInitializer
+okhttp3.internal.publicsuffix.PublicSuffixDatabase
+androidx.core.app.RemoteActionCompat
+com.google.android.gms.common.api.internal.zzd
+com.google.android.gms.common.SupportErrorDialogFragment
+androidx.compose.foundation.lazy.layout.LazyLayoutItemAnimator$DisplayingDisappearingItemsElement
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1
+androidx.lifecycle.ReportFragment
+androidx.compose.ui.semantics.AppendedSemanticsElement
+com.example.usagi_tienda_app.data.remote.ApiService
+androidx.navigation.compose.ComposeNavGraphNavigator
+androidx.compose.foundation.BorderModifierNodeElement
+androidx.appcompat.app.AlertController$RecycleListView
+androidx.appcompat.widget.ActionMenuView
+androidx.compose.ui.platform.AndroidComposeView$bringIntoViewNode$1
+androidx.compose.ui.draw.DrawWithContentElement
+androidx.appcompat.widget.Toolbar
+com.google.android.datatransport.cct.CctBackendFactory
+androidx.appcompat.view.menu.ExpandedMenuView
+androidx.compose.ui.focus.FocusChangedElement
+com.google.android.gms.common.internal.ReflectedParcelable
+androidx.fragment.app.DialogFragment
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel
+androidx.compose.foundation.layout.LayoutWeightElement
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback
+androidx.navigation.compose.BackStackEntryIdViewModel
+androidx.appcompat.widget.SearchView
+com.example.usagi_tienda_app.MainActivity
+androidx.navigation.compose.ComposeNavigator
+androidx.profileinstaller.ProfileInstallReceiver
+com.google.android.gms.common.api.GoogleApiActivity
+androidx.navigation.ActivityNavigator
+androidx.graphics.path.PathIteratorPreApi34Impl
+com.google.android.gms.auth.api.signin.GoogleSignInAccount
+androidx.navigation.NavControllerViewModel
+androidx.compose.foundation.text.modifiers.TextStringSimpleElement
+androidx.compose.foundation.layout.FillElement
+androidx.appcompat.widget.DialogTitle
+androidx.compose.foundation.layout.AlignmentLineOffsetDpElement
+androidx.compose.ui.semantics.EmptySemanticsElement
+androidx.compose.foundation.layout.HorizontalAlignElement
+androidx.appcompat.widget.FitWindowsFrameLayout
+androidx.navigation.NavBackStackEntry$SavedStateViewModel
+androidx.compose.foundation.layout.WrapContentElement
+androidx.compose.foundation.text.handwriting.StylusHandwritingElementWithNegativePadding
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation
+com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+com.google.android.gms.common.api.internal.BasePendingResult
+androidx.core.graphics.drawable.IconCompat
+androidx.compose.foundation.gestures.DraggableElement
+com.google.mlkit.vision.barcode.bundled.internal.ThickBarcodeScannerCreator
+androidx.appcompat.widget.ButtonBarLayout
+androidx.compose.foundation.lazy.layout.LazyLayoutSemanticsModifier
+androidx.compose.foundation.layout.PaddingElement
+androidx.core.graphics.drawable.IconCompatParcelizer
+com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+androidx.compose.ui.draw.DrawWithCacheElement
+androidx.compose.ui.semantics.ClearAndSetSemanticsElement
+androidx.compose.foundation.text.modifiers.TextAnnotatedStringElement
+kotlinx.coroutines.android.AndroidDispatcherFactory
+com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+androidx.graphics.path.ConicConverter
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.compose.ui.layout.RulerProviderModifierElement
+androidx.startup.InitializationProvider
+androidx.compose.foundation.ScrollingLayoutElement
+androidx.compose.foundation.text.modifiers.SelectableTextAnnotatedStringElement
+com.google.android.gms.common.GooglePlayServicesIncorrectManifestValueException
+androidx.compose.foundation.text.input.internal.LegacyAdaptingPlatformTextInputModifier
+androidx.emoji2.text.EmojiCompatInitializer
+com.google.android.libraries.barhopper.BarhopperV3
+androidx.lifecycle.ProcessLifecycleOwner$attach$1
+com.google.android.gms.common.GooglePlayServicesManifestException
+androidx.appcompat.view.menu.ActionMenuItemView
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+androidx.compose.animation.EnterExitTransitionElement
+androidx.compose.foundation.IndicationModifierElement
+androidx.core.widget.NestedScrollView
+com.google.android.gms.dynamite.descriptors.com.google.mlkit.dynamite.barcode.ModuleDescriptor
+com.google.mlkit.common.internal.MlKitInitProvider
+com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+androidx.compose.foundation.FocusableElement
+com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+androidx.core.app.CoreComponentFactory
+com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+androidx.compose.ui.draw.PainterElement
+androidx.compose.foundation.layout.SizeElement
+androidx.compose.foundation.layout.PaddingValuesElement
+androidx.compose.ui.focus.FocusRequesterElement
+androidx.compose.ui.layout.OnSizeChangedModifier
+androidx.appcompat.widget.ActionBarContainer
+androidx.appcompat.widget.SearchView$SearchAutoComplete
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+com.google.android.gms.common.api.Status
+com.google.android.libraries.barhopper.OnedRecognitionOptions
+androidx.compose.ui.input.pointer.SuspendPointerInputElement
+com.example.usagi_tienda_app.data.UsagiDatabase_Impl
+com.google.android.gms.common.api.internal.zzb
+androidx.compose.ui.draw.ShadowGraphicsLayerElement
+androidx.compose.ui.input.pointer.PointerInputEventHandler
+androidx.compose.ui.graphics.BlockGraphicsLayerElement
+android.support.v4.graphics.drawable.IconCompatParcelizer
+com.example.usagi_tienda_app.presentation.photos.PhotosViewModel
+androidx.compose.material3.MinimumInteractiveModifier
+com.google.android.gms.common.GooglePlayServicesMissingManifestValueException
+androidx.compose.ui.layout.LayoutIdElement
+androidx.appcompat.widget.ActionBarOverlayLayout
+androidx.appcompat.widget.ContentFrameLayout
+com.google.android.gms.common.api.internal.LifecycleCallback
+androidx.compose.ui.graphics.GraphicsLayerElement
+androidx.compose.ui.draw.DrawBehindElement
+androidx.compose.foundation.selection.SelectableElement
+androidx.core.app.RemoteActionCompatParcelizer
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.appcompat.widget.ActivityChooserView$InnerLayout
+coil.compose.ContentPainterElement
+com.google.android.gms.common.api.Scope
+androidx.compose.ui.input.rotary.RotaryInputElement
+androidx.compose.foundation.layout.UnspecifiedConstraintsElement
+androidx.lifecycle.ProcessLifecycleInitializer
+androidx.compose.foundation.gestures.ScrollableElement
+androidx.appcompat.widget.ActionBarContextView
+androidx.room.MultiInstanceInvalidationService
+androidx.compose.foundation.layout.BoxChildDataElement
+androidx.annotation.Keep
+androidx.compose.ui.layout.OnGloballyPositionedElement
+com.example.usagi_tienda_app.data.UsagiDatabase
+androidx.compose.foundation.relocation.BringIntoViewRequesterElement
+androidx.compose.foundation.MagnifierElement
+androidx.compose.ui.focus.FocusOwnerImpl$modifier$1
+androidx.compose.ui.input.key.KeyInputElement
+androidx.compose.ui.platform.AndroidCompositionLocals_androidKt
+androidx.compose.ui.draganddrop.AndroidDragAndDropManager$modifier$1
+com.google.android.libraries.barhopper.RecognitionOptions
+androidx.navigation.compose.DialogNavigator
+androidx.compose.foundation.BackgroundElement
+androidx.compose.ui.layout.LayoutElement
+androidx.appcompat.view.menu.ListMenuItemView
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhz: java.lang.String zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzav: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzag: com.google.photos.vision.barhopper.zzag zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjv zzv
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: int zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzif: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzif zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd: java.lang.String zze
+com.google.photos.vision.barhopper.zzc: java.lang.String zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzil: int zze
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state$volatile
+com.google.photos.vision.barhopper.zzy: int zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: boolean zzf
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted$volatile
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzr zzi
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef$volatile
+com.google.android.libraries.barhopper.RecognitionOptions: boolean enableUseKeypointAsFinderPattern
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzic: int zzd
+com.google.android.gms.common.internal.TelemetryData: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzl
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc zza
+com.google.android.gms.signin.internal.zai: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaz: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd: java.lang.String zzh
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzag zzl
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int ean13UpcaMinConsistentLines
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+com.google.photos.vision.barhopper.zzn: int zzg
+com.google.photos.vision.barhopper.zzt: java.lang.String zzr
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state$volatile
+com.google.photos.vision.barhopper.zzac: com.google.photos.vision.barhopper.zzac zza
+com.google.barhopper.deeplearning.zzc: int zzi
+com.google.barhopper.deeplearning.zzc: int zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzkd zzm
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzm: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzm zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhx zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzic: int zzf
+kotlinx.coroutines.EventLoopImplBase$DelayedTask: java.lang.Object _heap
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjn: java.lang.String zze
+com.google.photos.vision.barhopper.zzc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdb zzf
+com.google.photos.vision.barhopper.zzr: int zzd
+com.google.photos.vision.barhopper.zzc: double zzx
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzkd: byte zze
+com.google.photos.vision.barhopper.zzt: java.lang.String zzk
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhv: java.lang.String zzf
+kotlinx.coroutines.InvokeOnCancelling: int _invoked$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzae: java.lang.String zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcb: int zzd
+com.google.photos.vision.barhopper.zzag: int zzd
+com.google.photos.vision.barhopper.zzn: com.google.photos.vision.barhopper.zzn zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: int zzk
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: java.lang.String zzi
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjl: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjn zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzij: int zzd
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next$volatile
+com.google.photos.vision.barhopper.zzt: java.lang.String zzj
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: boolean zzo
+com.google.photos.vision.barhopper.zzr: java.lang.String zzl
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: int zzd
+com.google.photos.vision.barhopper.zzaa: java.lang.String zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzkd zzj
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+com.google.barhopper.deeplearning.zzn: com.google.barhopper.deeplearning.zzn zza
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+com.google.barhopper.deeplearning.BarhopperV3Options: com.google.barhopper.deeplearning.BarhopperV3Options zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzam: java.lang.String zzg
+com.google.android.libraries.barhopper.OnedRecognitionOptions: boolean code39UseCheckDigit
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzed: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzgz zzc
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: int zzd
+kotlinx.coroutines.ThreadState: int _state$volatile
+com.google.android.libraries.barhopper.RecognitionOptions: boolean outputUnrecognizedBarcodes
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+androidx.activity.result.ActivityResult: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzt: java.lang.String zzl
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhx zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjh: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjh zza
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: int zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzae: int zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhv: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhv zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzm: int zzd
+com.google.barhopper.deeplearning.zzi: java.lang.String zze
+com.google.photos.vision.barhopper.BarhopperProto$BarhopperResponse: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdb zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: int zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzbc: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzkd zzj
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdz: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdt zza
+com.google.photos.vision.barhopper.zzr: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzk
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd: java.lang.String zzf
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzka: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: int zzk
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzao zzm
+com.google.photos.vision.barhopper.zzp: com.google.photos.vision.barhopper.zzn zzj
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int itfMinCodeLength
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int code93MinConsistentLines
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzab: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzab zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: java.lang.String zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: int zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzy zzl
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: java.lang.String zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzv: long zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: int zzm
+com.google.barhopper.deeplearning.zzn: java.lang.String zzg
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzic: boolean zzg
+com.google.photos.vision.barhopper.zzp: java.lang.String zzi
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaw: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: boolean zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzif: int zze
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd: java.lang.String zzg
+com.google.barhopper.deeplearning.zzc: com.google.barhopper.deeplearning.zzc zza
+com.google.photos.vision.barhopper.zzl: java.lang.String zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzab: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzae zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzed: java.util.Map zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjv: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjv zza
+com.google.photos.vision.barhopper.zzr: java.lang.String zzg
+com.google.android.gms.common.internal.ConnectionTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.dynamite.descriptors.com.google.mlkit.dynamite.barcode.ModuleDescriptor: int MODULE_VERSION
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int code128MinCodeLength
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int ean8MinConsistentLines
+com.google.barhopper.deeplearning.zzn: java.lang.String zze
+com.google.barhopper.deeplearning.zzn: float zzj
+com.google.photos.vision.barhopper.zzy: java.lang.String zzh
+androidx.compose.runtime.ParcelableSnapshotMutableState: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjf: int zzg
+com.google.photos.vision.barhopper.zzaj: java.lang.String zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzi
+com.google.photos.vision.barhopper.zzr: byte zzm
+com.google.photos.vision.barhopper.zzc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzej zzt
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzij: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzij zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzv: int zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzht: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjj zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzka zzl
+com.google.barhopper.deeplearning.zzi: float zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: int zze
+androidx.navigation.NavBackStackEntryState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzh
+com.google.barhopper.deeplearning.zzi: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzei zzk
+com.google.photos.vision.barhopper.zzy: com.google.photos.vision.barhopper.zzy zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzae: int zzd
+androidx.lifecycle.Lifecycle$Event: kotlin.enums.EnumEntries $ENTRIES
+com.google.photos.vision.barhopper.zzn: int zzh
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzm: java.lang.String zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzit: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzit zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: boolean zzj
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzit zzs
+com.google.android.libraries.barhopper.RecognitionOptions: int binarizerOptions
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzij: int zzf
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long deqIdx$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzv: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzeb zza
+com.google.photos.vision.barhopper.zzt: java.lang.String zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzit: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjp: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode.zzah: android.os.Parcelable$Creator CREATOR
+androidx.fragment.app.FragmentState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzbu: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: java.lang.String zzg
+coil.memory.MemoryCache$Key: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: int zzn
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzif: int zzd
+com.google.barhopper.deeplearning.zzc: int zzg
+com.google.photos.vision.barhopper.zzao: java.lang.String zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzy: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzab zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzv: long zzf
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzat: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzp: java.lang.String zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzeb zza
+com.google.photos.vision.barhopper.zzl: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzf
+com.google.photos.vision.barhopper.zzp: java.lang.String zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: byte zzm
+com.google.android.libraries.barhopper.RecognitionOptions: boolean enableQrAlignmentGrid
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaq: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzp: com.google.photos.vision.barhopper.zzn zzk
+com.google.android.gms.common.internal.zat: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: byte zzn
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjf zzq
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: boolean zzo
+com.google.android.gms.signin.internal.zak: android.os.Parcelable$Creator CREATOR
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+com.google.barhopper.deeplearning.zzi: com.google.barhopper.deeplearning.zzi zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcb: int zze
+androidx.appcompat.widget.SearchView$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzif: int zzf
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzt zzq
+com.google.photos.vision.barhopper.zzao: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd: java.lang.String zzj
+com.google.photos.vision.barhopper.zzc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdb zzy
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzci: int zzd
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjp: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjp zza
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzht: int zze
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+com.google.photos.vision.barhopper.zzt: java.lang.String zzq
+com.google.barhopper.deeplearning.zzi: int zzg
+com.google.barhopper.deeplearning.zzn: int zzm
+com.google.photos.vision.barhopper.zzn: boolean zzk
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzap: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.MethodInvocation: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzab: boolean zzf
+com.google.photos.vision.barhopper.zzr: com.google.photos.vision.barhopper.zzr zza
+com.google.photos.vision.barhopper.zzac: double zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzej zzl
+com.google.barhopper.deeplearning.zzn: float zzi
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzei zzf
+androidx.compose.runtime.snapshots.SnapshotStateList: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhz: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhz zza
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next$volatile
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzc zza
+com.google.photos.vision.barhopper.zzc: byte zzz
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: boolean zzl
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: java.lang.String zzj
+com.google.photos.vision.barhopper.zzao: int zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzif zzm
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment$volatile
+com.google.android.libraries.barhopper.RecognitionOptions: com.google.android.libraries.barhopper.OnedRecognitionOptions onedRecognitionOptions
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: java.lang.String zzg
+com.google.photos.vision.barhopper.zzae: int zzd
+com.google.android.gms.signin.internal.zaa: android.os.Parcelable$Creator CREATOR
+com.google.android.libraries.barhopper.OnedRecognitionOptions: boolean code39UseExtendedMode
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: java.lang.String zzf
+com.google.photos.vision.barhopper.zzac: double zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzv: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzv zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp: java.lang.String zzi
+com.google.photos.vision.barhopper.zzaa: java.lang.String zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: int zze
+com.google.photos.vision.barhopper.zzac: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzil: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzba: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzej zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf zzk
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed$volatile
+kotlinx.coroutines.CancelledContinuation: int _resumed$volatile
+com.google.photos.vision.barhopper.zzao: boolean zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjn: int zzd
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long enqIdx$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzeb zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: java.lang.String zzk
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjn: long zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzka: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzka zza
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.google.photos.vision.barhopper.zzc: java.lang.String zzu
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int itfMinConsistentLines
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: int zzk
+com.google.photos.vision.barhopper.zzc: int zze
+com.google.barhopper.deeplearning.zzf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhv: java.lang.String zze
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzy zzj
+com.google.photos.vision.barhopper.zzn: int zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjf: int zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzij: int zzh
+androidx.customview.view.AbsSavedState: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.BarhopperProto$BarhopperResponse: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zze
+com.google.photos.vision.barhopper.zzc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzs
+com.google.photos.vision.barhopper.zzt: java.lang.String zzi
+kotlin.SafePublicationLazyImpl: java.lang.Object _value
+kotlinx.coroutines.CompletedExceptionally: int _handled$volatile
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int code128MinConsistentLines
+com.google.barhopper.deeplearning.zzc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzei zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzg
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int codabarMinConsistentLines
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting$volatile
+com.google.photos.vision.barhopper.zzr: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd zze
+kotlinx.coroutines.JobSupport: java.lang.Object _state$volatile
+com.google.android.gms.common.internal.RootTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzic: java.lang.String zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjl: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzf
+com.google.photos.vision.barhopper.zzag: java.lang.String zzf
+com.google.photos.vision.barhopper.zzaj: byte zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjn: long zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: java.lang.String zzm
+kotlin.coroutines.SafeContinuation: java.lang.Object result
+com.google.photos.vision.barhopper.zzp: java.lang.String zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzam: java.lang.String zze
+com.google.barhopper.deeplearning.zzn: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdb zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjh zzi
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object head$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzif: int zzg
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause$volatile
+com.google.barhopper.deeplearning.zzi: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzkd: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzkd zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: int zzl
+com.google.photos.vision.barhopper.zzp: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzci: java.lang.String zzf
+com.google.barhopper.deeplearning.zzi: float zzi
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzam: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzit zzj
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzv: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzkd zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdb zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: int zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzil: long zzf
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+kotlinx.coroutines.DispatchedCoroutine: int _decision$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: java.lang.String zzl
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.google.photos.vision.barhopper.zzaj: com.google.photos.vision.barhopper.zzaj zza
+com.google.photos.vision.barhopper.zzn: int zzi
+androidx.appcompat.widget.Toolbar$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.barhopper.deeplearning.zzi: int zzp
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp: boolean zzg
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle$volatile
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzka: int zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzic zzk
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+com.google.photos.vision.barhopper.zzr: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzh
+com.google.android.gms.auth.api.signin.GoogleSignInAccount: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.channels.BufferedChannel: long receivers$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzht: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjl zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: boolean zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzci: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzci zza
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int code39MinCodeLength
+kotlinx.coroutines.flow.ChannelAsFlow: int consumed$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzar: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzaa: java.lang.String zzj
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzau: android.os.Parcelable$Creator CREATOR
+androidx.activity.result.IntentSenderRequest: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzaa: java.lang.String zzl
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzay: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzc: int zzd
+com.google.photos.vision.barhopper.zzr: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzj
+com.google.photos.vision.barhopper.zzt: java.lang.String zze
+com.google.photos.vision.barhopper.zzn: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjf zza
+com.google.photos.vision.barhopper.zzag: byte zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp: java.lang.String zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjf: int zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc zzn
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next$volatile
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex$volatile
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzck: int zzb
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzci: int zze
+com.google.photos.vision.barhopper.zzac: byte zzg
+com.google.barhopper.deeplearning.zzc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzei zze
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int code39MinConsistentLines
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue$volatile
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: java.lang.String zzm
+com.google.barhopper.deeplearning.zzn: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdb zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp zzi
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: byte zzm
+com.google.android.libraries.barhopper.RecognitionOptions: int barcodeFormats
+com.google.photos.vision.barhopper.zzt: java.lang.String zzn
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcb: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf zzg
+com.google.photos.vision.barhopper.zzaa: java.lang.String zzi
+com.google.android.gms.common.internal.zzj: android.os.Parcelable$Creator CREATOR
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int upceMinConsistentLines
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzas: android.os.Parcelable$Creator CREATOR
+com.google.barhopper.deeplearning.BarhopperV3Options: com.google.barhopper.deeplearning.zzn zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcb: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzf
+com.google.photos.vision.barhopper.zzaa: java.lang.String zzk
+com.google.barhopper.deeplearning.zzi: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzht zzm
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: boolean zzk
+com.google.photos.vision.barhopper.zzl: com.google.photos.vision.barhopper.zzl zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: int zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjh: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzic: int zzh
+androidx.compose.runtime.ParcelableSnapshotMutableDoubleState: android.os.Parcelable$Creator CREATOR
+androidx.compose.foundation.lazy.layout.DefaultLazyKey: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.BarhopperProto$BarhopperResponse: com.google.photos.vision.barhopper.BarhopperProto$BarhopperResponse zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcb: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcb zza
+com.google.barhopper.deeplearning.BarhopperV3Options: com.google.barhopper.deeplearning.zzi zze
+androidx.fragment.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzij: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzg
+com.google.barhopper.deeplearning.zzc: int zzd
+com.google.photos.vision.barhopper.zzl: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzht: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx zzf
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhz zzw
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzit: boolean zzf
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: int _availablePermits$volatile
+com.google.barhopper.deeplearning.zzi: com.google.barhopper.deeplearning.zzf zzj
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: int zzi
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object tail$volatile
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzam: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzam zza
+com.google.photos.vision.barhopper.zzt: java.lang.String zzf
+com.google.barhopper.deeplearning.zzi: int zzn
+com.google.barhopper.deeplearning.zzf: com.google.barhopper.deeplearning.zzf zza
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: java.lang.String zzi
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl$volatile
+com.google.barhopper.deeplearning.zzi: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdb zzf
+com.google.photos.vision.barhopper.zzaj: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjf zzp
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzab: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: boolean zzm
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzht: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzht zza
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzit: boolean zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp zza
+com.google.photos.vision.barhopper.zzc: boolean zzw
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhz: java.lang.String zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: boolean zzr
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: int zzt
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: int zzj
+com.google.photos.vision.barhopper.zzaj: java.lang.String zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjp: java.lang.String zze
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers$volatile
+com.google.photos.vision.barhopper.zzt: com.google.photos.vision.barhopper.zzt zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjp: java.lang.String zzf
+com.google.android.libraries.barhopper.RecognitionOptions: boolean useQrMobilenetV3
+com.google.photos.vision.barhopper.zzt: java.lang.String zzo
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzif: int zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzae: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzae zza
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur$volatile
+com.google.barhopper.deeplearning.zzi: int zzo
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjh: int zze
+com.google.android.gms.dynamite.descriptors.com.google.mlkit.dynamite.barcode.ModuleDescriptor: java.lang.String MODULE_ID
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhx: int zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzil: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzil zza
+com.google.barhopper.deeplearning.zzn: float zzl
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd: java.lang.String zzk
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj zza
+com.google.photos.vision.barhopper.zzn: int zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: java.lang.String zze
+com.google.photos.vision.barhopper.zzc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzv
+com.google.photos.vision.barhopper.zzr: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zzi
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhv: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjj zza
+com.google.barhopper.deeplearning.zzi: int zzl
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+androidx.fragment.app.BackStackState: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzac zzo
+com.google.photos.vision.barhopper.zzaa: java.lang.String zzf
+com.google.photos.vision.barhopper.zzao: com.google.photos.vision.barhopper.zzao zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzm: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zze
+com.google.barhopper.deeplearning.zzn: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcd: java.lang.String zzi
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzy: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzy zza
+com.google.photos.vision.barhopper.zzt: java.lang.String zzm
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd$volatile
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+com.google.android.gms.common.api.Status: android.os.Parcelable$Creator CREATOR
+com.google.barhopper.deeplearning.BarhopperV3Options: int zzd
+com.google.photos.vision.barhopper.zzae: byte zzg
+com.google.photos.vision.barhopper.zzag: java.lang.String zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjl: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhv zzg
+com.google.photos.vision.barhopper.zzae: int zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzy: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzv: byte zzi
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzej zzi
+com.google.photos.vision.barhopper.zzt: java.lang.String zzh
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzax: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.BarhopperProto$BarhopperResponse: java.lang.String zzg
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzl zzr
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjv: java.lang.String zze
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int code93MinCodeLength
+com.google.photos.vision.barhopper.zzae: com.google.photos.vision.barhopper.zzae zza
+com.google.photos.vision.barhopper.zzaa: com.google.photos.vision.barhopper.zzaa zza
+com.google.android.gms.signin.internal.zag: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq zzj
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzv zzh
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzij zzh
+com.google.photos.vision.barhopper.BarhopperProto$BarhopperResponse: int zzd
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+com.google.barhopper.deeplearning.zzc: int zzj
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: boolean zzu
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: int zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjp zzf
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+com.google.photos.vision.barhopper.BarhopperProto$BarhopperResponse: byte zzi
+com.google.photos.vision.barhopper.zzt: int zzd
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: boolean zzn
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzam: java.lang.String zzf
+com.google.photos.vision.barhopper.zzaa: int zzd
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzp zzp
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjl: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzel zze
+com.google.photos.vision.barhopper.zzaa: java.lang.String zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: long zzp
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp: byte zzk
+com.google.android.libraries.barhopper.OnedRecognitionOptions: int codabarMinCodeLength
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: int zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjv: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjf zzo
+com.google.photos.vision.barhopper.zzc: com.google.photos.vision.barhopper.zzaj zzn
+com.google.photos.vision.barhopper.zzao: java.lang.String zzg
+com.google.photos.vision.barhopper.zzy: java.lang.String zzf
+com.google.photos.vision.barhopper.zzaa: java.lang.String zzm
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: int zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzka: int zze
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzij: int zze
+com.google.android.gms.common.internal.zav: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzao: byte zzi
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjf: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzy zzl
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack$volatile
+com.google.photos.vision.barhopper.zzy: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzf zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw: int zzj
+androidx.fragment.app.FragmentManager$LaunchedFragmentInfo: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated$volatile
+com.google.photos.vision.barhopper.zzn: int zzj
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhz: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjr: int zzi
+com.google.photos.vision.barhopper.zzt: java.lang.String zzp
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex$volatile
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzed: int zzd
+com.google.photos.vision.barhopper.zzc: int zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzcb: byte zzh
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjj: int zzd
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzao: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzht: int zzd
+com.google.photos.vision.barhopper.BarhopperProto$BarhopperResponse: int zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjn: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjn zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziw zzg
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: android.os.Parcelable$Creator CREATOR
+com.google.photos.vision.barhopper.zzp: com.google.photos.vision.barhopper.zzp zza
+com.google.photos.vision.barhopper.zzp: java.lang.String zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjj: java.lang.String zze
+com.google.photos.vision.barhopper.zzc: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzci zzk
+androidx.core.widget.NestedScrollView$SavedState: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjx: int zze
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzic: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzic zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzp: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzkd zzj
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev$volatile
+com.google.barhopper.deeplearning.zzn: float zzk
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjl: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjl zza
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjn: long zzf
+com.google.photos.vision.barhopper.zzae: int zze
+com.google.photos.vision.barhopper.zzr: java.lang.String zzf
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zziq zza
+com.google.photos.vision.barhopper.zzy: java.lang.String zzg
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzaj: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzek zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhx: int zzd
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzjc: boolean zzk
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer$volatile
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.compose.ui.node.Invalidation: androidx.compose.ui.node.Invalidation[] values()
+androidx.fragment.app.FragmentContainerView: void setLayoutTransition(android.animation.LayoutTransition)
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getOverflowIcon()
+androidx.appcompat.widget.ActionMenuView: void setOverflowReserved(boolean)
+androidx.appcompat.view.menu.ActionMenuItemView: void setChecked(boolean)
+androidx.appcompat.widget.Toolbar: android.view.Menu getMenu()
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl: boolean isHorizontallyScrollable(android.widget.TextView)
+androidx.appcompat.widget.AppCompatTextHelper$Api26Impl: void setAutoSizeTextTypeUniformWithConfiguration(android.widget.TextView,int,int,int,int)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.appcompat.widget.SearchView: void setOnQueryTextListener(androidx.appcompat.widget.SearchView$OnQueryTextListener)
+androidx.compose.ui.platform.AndroidComposeView: void setConfigurationChangeObserver(kotlin.jvm.functions.Function1)
+androidx.compose.ui.text.font.FontWeightAdjustmentHelperApi31: int fontWeightAdjustment(android.content.Context)
+com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver: AlarmManagerSchedulerBroadcastReceiver()
+androidx.compose.material3.MinimumInteractiveModifier: MinimumInteractiveModifier()
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens[] values()
+androidx.compose.ui.platform.AndroidComposeView: boolean getShowLayoutBounds()
+androidx.appcompat.widget.AppCompatTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl23: void computeAndSetTextDirection(android.text.StaticLayout$Builder,android.widget.TextView)
+androidx.camera.core.impl.Config$OptionPriority: androidx.camera.core.impl.Config$OptionPriority valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageView: void setImageLevel(int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.contentcapture.AndroidContentCaptureManager getContentCaptureManager$ui_release()
+androidx.appcompat.widget.AppCompatTextHelper$Api21Impl: java.util.Locale forLanguageTag(java.lang.String)
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatTextView: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+androidx.compose.ui.node.LayoutNode: java.lang.String exceptionMessageForParentingOrOwnership(androidx.compose.ui.node.LayoutNode)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setImeVisibility(boolean)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.LayoutDirection getParentLayoutDirection()
+androidx.appcompat.view.menu.ListMenuItemView: androidx.appcompat.view.menu.MenuItemImpl getItemData()
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.core.view.ViewCompat$Api21Impl: android.content.res.ColorStateList getBackgroundTintList(android.view.View)
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzb: android.os.IBinder asBinder()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.lifecycle.SavedStateHandlesVM: SavedStateHandlesVM()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotY()
+androidx.compose.ui.contentcapture.ContentCaptureEventType: androidx.compose.ui.contentcapture.ContentCaptureEventType valueOf(java.lang.String)
+com.google.mlkit.common.internal.CommonComponentRegistrar: CommonComponentRegistrar()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.appcompat.widget.Toolbar: void setNavigationIcon(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.AppCompatTextView: int getFirstBaselineToTopHeight()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.ui.platform.ViewLayer: void setCameraDistancePx(float)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34()
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdu: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzdu[] values()
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection[] values()
+okhttp3.internal.http2.ErrorCode: okhttp3.internal.http2.ErrorCode valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+androidx.appcompat.widget.Toolbar: int getTitleMarginStart()
+androidx.appcompat.widget.Toolbar: void setNavigationContentDescription(java.lang.CharSequence)
+androidx.compose.ui.platform.ComposeView: void setContent(kotlin.jvm.functions.Function2)
+androidx.appcompat.widget.AppCompatImageView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.core.view.WindowInsetsCompat$TypeImpl34: int toPlatformType(int)
+androidx.camera.camera2.Camera2Config$DefaultProvider: Camera2Config$DefaultProvider()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl: void setSystemUiVisibility(int)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Api23Impl: android.text.StaticLayout createStaticLayoutForMeasuring(java.lang.CharSequence,android.text.Layout$Alignment,int,int,android.widget.TextView,android.text.TextPaint,androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl)
+androidx.appcompat.widget.Toolbar: android.widget.TextView getTitleTextView()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.platform.AbstractComposeView getSubCompositionView()
+androidx.appcompat.widget.AppCompatTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsN: void setPointerIcon(android.view.View,androidx.compose.ui.input.pointer.PointerIcon)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeWidth(float)
+androidx.appcompat.widget.ActionMenuView: void setOnMenuItemClickListener(androidx.appcompat.widget.ActionMenuView$OnMenuItemClickListener)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundResource(int)
+androidx.appcompat.widget.ActionBarContextView: void setTitle(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatImageView: void setImageDrawable(android.graphics.drawable.Drawable)
+androidx.compose.ui.platform.AndroidComposeView: void setFontFamilyResolver(androidx.compose.ui.text.font.FontFamily$Resolver)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax[] values()
+androidx.appcompat.widget.ActionBarContainer: void setPrimaryBackground(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context,android.util.AttributeSet,int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.hapticfeedback.HapticFeedback getHapticFeedBack()
+com.google.android.libraries.barhopper.BarhopperV3: byte[] recognizeNative(long,int,int,byte[],com.google.android.libraries.barhopper.RecognitionOptions)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getFillAlpha()
+androidx.appcompat.widget.LinearLayoutCompat: int getBaseline()
+androidx.appcompat.widget.ButtonBarLayout: void setStacked(boolean)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl23: AppCompatTextViewAutoSizeHelper$Impl23()
+androidx.lifecycle.ReportFragment: ReportFragment()
+androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName: androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName[] values()
+androidx.compose.ui.graphics.layer.view.DrawChildContainer: int getChildCount()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setEmojiCompatEnabled(boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction valueOf(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: void setGravity(int)
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+androidx.compose.ui.platform.AbstractComposeView: void setParentCompositionContext(androidx.compose.runtime.CompositionContext)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performJoinOrSplitGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.JoinOrSplitGesture,androidx.compose.ui.text.AnnotatedString,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.AppCompatImageButton: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleX()
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAlignedChildIndex(int)
+androidx.appcompat.widget.AppCompatImageButton: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillColor(int)
+androidx.compose.ui.platform.AbstractComposeView: void setPreviousAttachedWindowToken(android.os.IBinder)
+com.google.android.datatransport.cct.CctBackendFactory: com.google.android.datatransport.runtime.backends.TransportBackend create(com.google.android.datatransport.runtime.backends.CreationContext)
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageButton: void setImageURI(android.net.Uri)
+androidx.appcompat.widget.SearchView$Api29Impl: void refreshAutoCompleteResults(android.widget.AutoCompleteTextView)
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle valueOf(java.lang.String)
+androidx.appcompat.widget.SearchView: void setQueryRefinementEnabled(boolean)
+androidx.appcompat.widget.ViewStubCompat: void setVisibility(int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners getViewTreeOwners()
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performRemoveSpaceGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.RemoveSpaceGesture,androidx.compose.ui.text.AnnotatedString,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.appcompat.widget.AppCompatTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction[] values()
+androidx.compose.ui.platform.AndroidComposeView: boolean getScrollCaptureInProgress$ui_release()
+androidx.appcompat.widget.Toolbar: void setTitleMarginStart(int)
+androidx.appcompat.widget.AppCompatTextView: void setPrecomputedText(androidx.core.text.PrecomputedTextCompat)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+androidx.appcompat.widget.AppCompatTextHelper$Api24Impl: android.os.LocaleList forLanguageTags(java.lang.String)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: WindowInsetsCompat$BuilderImpl34(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+okhttp3.TlsVersion: okhttp3.TlsVersion[] values()
+androidx.compose.ui.graphics.layer.view.PlaceholderHardwareCanvas: int drawRenderNode(android.view.RenderNode,android.graphics.Rect,int)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+androidx.compose.ui.window.PopupLayout: void setLayoutDirection(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+androidx.compose.ui.platform.Api30Impl: boolean isShowingLayoutBounds(android.view.View)
+androidx.appcompat.widget.LinearLayoutCompat: int getVirtualChildCount()
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+com.example.usagi_tienda_app.data.remote.ApiService: java.lang.Object getPhotos(kotlin.coroutines.Continuation)
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeStepGranularity()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AndroidAutofillManager get_autofillManager$ui_release()
+androidx.compose.ui.input.pointer.PointerInputEventHandler: java.lang.Object invoke(androidx.compose.ui.input.pointer.PointerInputScope,kotlin.coroutines.Continuation)
+androidx.appcompat.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+androidx.compose.ui.platform.AbstractComposeView: void setViewCompositionStrategy(androidx.compose.ui.platform.ViewCompositionStrategy)
+com.google.android.libraries.barhopper.BarhopperV3: byte[] recognizeBufferNative(long,int,int,java.nio.ByteBuffer,com.google.android.libraries.barhopper.RecognitionOptions)
+com.example.usagi_tienda_app.data.FavoriteCategory: com.example.usagi_tienda_app.data.FavoriteCategory[] values()
+androidx.compose.material3.SnackbarDuration: androidx.compose.material3.SnackbarDuration valueOf(java.lang.String)
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView$Api17Impl: int getLayoutDirection(android.content.res.Configuration)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setLogo(int)
+androidx.compose.ui.platform.ComposeView: void getShouldCreateCompositionOnAttachedToWindow$annotations()
+androidx.compose.ui.platform.AndroidComposeView: kotlin.jvm.functions.Function1 getConfigurationChangeObserver()
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void setViewTranslationCallback(android.view.View)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState[] values()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.appcompat.widget.Toolbar: void setCollapsible(boolean)
+com.google.android.gms.common.ErrorDialogFragment: ErrorDialogFragment()
+androidx.navigation.serialization.RouteBuilder$ParamType: androidx.navigation.serialization.RouteBuilder$ParamType valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillAlpha(float)
+androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact: androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact[] values()
+androidx.compose.material3.SnackbarResult: androidx.compose.material3.SnackbarResult valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: float getAlpha()
+androidx.compose.ui.window.PopupLayout: void setPopupContentSize-fhxjrPA(androidx.compose.ui.unit.IntSize)
+androidx.compose.material3.SnackbarDuration: androidx.compose.material3.SnackbarDuration[] values()
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl[] values()
+androidx.core.widget.NestedScrollView: void setOnScrollChangeListener(androidx.core.widget.NestedScrollView$OnScrollChangeListener)
+androidx.compose.runtime.ComposerKt: void composeImmediateRuntimeError(java.lang.String)
+androidx.core.view.ViewCompat$Api20Impl: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.animation.EnterExitState: androidx.compose.animation.EnterExitState[] values()
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat computeSystemWindowInsets(android.view.View,androidx.core.view.WindowInsetsCompat,android.graphics.Rect)
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize valueOf(java.lang.String)
+androidx.appcompat.widget.TooltipCompat$Api26Impl: void setTooltipText(android.view.View,java.lang.CharSequence)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus valueOf(java.lang.String)
+coil.size.Precision: coil.size.Precision[] values()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int fallback(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.HandwritingGesture)
+androidx.appcompat.widget.SearchView: void setOnSuggestionListener(androidx.appcompat.widget.SearchView$OnSuggestionListener)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboardManager getClipboardManager()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.geometry.Rect getEmbeddedViewFocusRect()
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeTextType()
+androidx.compose.ui.platform.AndroidComposeView: boolean getHasPendingMeasureOrLayout()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.layout.LayoutCoordinates getParentLayoutCoordinates()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillManager getAutofillManager()
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView: void setHoverListener(androidx.appcompat.widget.MenuItemHoverListener)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.IntRect getVisibleDisplayBounds()
+androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName: androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName valueOf(java.lang.String)
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.appcompat.widget.ActionBarContainer: void setTransitioning(boolean)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performRemoveSpaceGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.RemoveSpaceGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl29: boolean isHorizontallyScrollable(android.widget.TextView)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setHasNonEmbeddedTabs(boolean)
+com.google.android.datatransport.Priority: com.google.android.datatransport.Priority valueOf(java.lang.String)
+androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView: void setSelector(android.graphics.drawable.Drawable)
+androidx.compose.foundation.text.input.internal.undo.TextEditType: androidx.compose.foundation.text.input.internal.undo.TextEditType[] values()
+androidx.compose.ui.platform.AndroidComposeView: void setLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+kotlin.DeprecationLevel: kotlin.DeprecationLevel[] values()
+androidx.core.widget.NestedScrollView: int getScrollRange()
+androidx.compose.runtime.PausedCompositionState: androidx.compose.runtime.PausedCompositionState valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState[] values()
+androidx.compose.ui.platform.AndroidComposeView: kotlin.coroutines.CoroutineContext getCoroutineContext()
+androidx.compose.ui.platform.AndroidComposeViewAssistHelperMethodsO: void setClassName(android.view.ViewStructure,android.view.View)
+androidx.compose.ui.node.Invalidation: androidx.compose.ui.node.Invalidation valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.ActionBarContextView: int getAnimatedVisibility()
+androidx.compose.ui.internal.InlineClassHelperKt: void throwIndexOutOfBoundsException(java.lang.String)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.Font$ResourceLoader getFontLoader()
+com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService: JobInfoSchedulerService()
+androidx.compose.ui.platform.AndroidComposeView: long getMeasureIteration()
+androidx.appcompat.widget.AppCompatImageView: void setSupportBackgroundTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.AlertDialogLayout: AlertDialogLayout(android.content.Context,android.util.AttributeSet)
+androidx.graphics.path.PathIteratorPreApi34Impl: boolean internalPathIteratorHasNext(long)
+androidx.appcompat.widget.AppCompatImageButton: void setImageLevel(int)
+okhttp3.internal.http2.ErrorCode: okhttp3.internal.http2.ErrorCode[] values()
+androidx.appcompat.widget.LinearLayoutCompat: void setBaselineAligned(boolean)
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl31)
+androidx.compose.ui.window.PopupLayout: boolean getCanCalculatePosition()
+androidx.compose.ui.platform.AndroidComposeView: void setLastMatrixRecalculationAnimationTime$ui_release(long)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AccessibilityManager getAccessibilityManager()
+androidx.compose.ui.platform.AbstractComposeView: void setParentContext(androidx.compose.runtime.CompositionContext)
+androidx.core.widget.NestedScrollView: void setFillViewport(boolean)
+androidx.appcompat.resources.Compatibility$Api15Impl: void getValueForDensity(android.content.res.Resources,int,int,android.util.TypedValue,boolean)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus[] values()
+androidx.compose.ui.platform.ViewLayer: void setFrameRateFromParent(boolean)
+androidx.appcompat.widget.SearchView: java.lang.CharSequence getQueryHint()
+androidx.appcompat.widget.AppCompatImageView: android.graphics.PorterDuff$Mode getSupportImageTintMode()
+androidx.appcompat.widget.Toolbar: void setTitle(int)
+androidx.appcompat.widget.AppCompatTextView: int getLastBaselineToBottomHeight()
+androidx.appcompat.view.menu.ActionMenuItemView: void setExpandedFormat(boolean)
+androidx.appcompat.widget.Toolbar: int getContentInsetStart()
+androidx.appcompat.widget.Toolbar: void setContentInsetStartWithNavigation(int)
+androidx.core.widget.NestedScrollView: float getBottomFadingEdgeStrength()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleX(float)
+androidx.fragment.app.DialogFragment: DialogFragment()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNodeDrawScope getSharedDrawScope()
+androidx.appcompat.widget.Toolbar: android.widget.TextView getSubtitleTextView()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getStrokeColor()
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.appcompat.widget.Toolbar$Api33Impl: android.window.OnBackInvokedDispatcher findOnBackInvokedDispatcher(android.view.View)
+androidx.compose.ui.platform.DrawChildContainer: int getChildCount()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setOverlayMode(boolean)
+androidx.appcompat.widget.MenuPopupWindow$Api23Impl: void setExitTransition(android.widget.PopupWindow,android.transition.Transition)
+androidx.navigation.compose.ComposeNavigator: ComposeNavigator()
+androidx.appcompat.widget.ActionBarOverlayLayout: int getNestedScrollAxes()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.compose.ui.platform.AndroidComposeView: void setShowLayoutBounds(boolean)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl: AppCompatTextViewAutoSizeHelper$Impl()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setKeyListener(android.text.method.KeyListener)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportImageTintList(android.content.res.ColorStateList)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateX()
+androidx.appcompat.widget.ActionBarContainer: android.view.View getTabContainer()
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: void setAccessibilityEventBatchIntervalMillis(long)
+coil.size.Scale: coil.size.Scale valueOf(java.lang.String)
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorRawSize(long)
+androidx.compose.ui.window.PopupLayout: void setParentLayoutCoordinates(androidx.compose.ui.layout.LayoutCoordinates)
+com.google.android.datatransport.runtime.backends.BackendResponse$Status: com.google.android.datatransport.runtime.backends.BackendResponse$Status valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performInsertGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.InsertGesture,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+androidx.compose.ui.platform.AndroidComposeView: void setContentCaptureManager$ui_release(androidx.compose.ui.contentcapture.AndroidContentCaptureManager)
+androidx.appcompat.view.menu.ListMenuItemView: void setTitle(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatImageView: void setImageBitmap(android.graphics.Bitmap)
+androidx.compose.ui.graphics.layer.ViewLayer: void setCanUseCompositingLayer$ui_graphics_release(boolean)
+androidx.appcompat.widget.SearchView$Api29Impl: void setInputMethodMode(androidx.appcompat.widget.SearchView$SearchAutoComplete,int)
+androidx.appcompat.widget.AppCompatTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.compose.ui.platform.AbstractComposeView: void getDisposeViewCompositionStrategy$annotations()
+androidx.emoji2.text.EmojiCompatInitializer: EmojiCompatInitializer()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintList(android.view.View,android.content.res.ColorStateList)
+androidx.appcompat.widget.DropDownListView$Api21Impl: void drawableHotspotChanged(android.view.View,float,float)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.appcompat.widget.AppCompatTextView: int[] getAutoSizeTextAvailableSizes()
+androidx.compose.material.ripple.RippleHostView: void setRippleState(boolean)
+androidx.appcompat.widget.ViewStubCompat: int getInflatedId()
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction valueOf(java.lang.String)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.Toolbar: int getContentInsetRight()
+androidx.appcompat.view.menu.ActionMenuItemView: void setPopupCallback(androidx.appcompat.view.menu.ActionMenuItemView$PopupCallback)
+androidx.appcompat.widget.ViewStubCompat: void setOnInflateListener(androidx.appcompat.widget.ViewStubCompat$OnInflateListener)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.InputModeManager getInputModeManager()
+androidx.compose.foundation.Api31Impl: float getDistance(android.widget.EdgeEffect)
+com.google.mlkit.vision.barcode.bundled.internal.ThickBarcodeScannerCreator: ThickBarcodeScannerCreator()
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State[] values()
+androidx.compose.ui.window.PopupLayout: kotlin.jvm.functions.Function2 getContent()
+androidx.appcompat.widget.AppCompatTextView: void setAllCaps(boolean)
+androidx.core.view.ViewCompat$Api21Impl: void setTransitionName(android.view.View,java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+androidx.appcompat.widget.Toolbar: void setLogo(android.graphics.drawable.Drawable)
+androidx.compose.ui.platform.AbstractComposeView: boolean getShowLayoutBounds()
+coil.decode.DataSource: coil.decode.DataSource[] values()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.appcompat.widget.AppCompatImageView: void setSupportImageTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.Toolbar: void setCollapseContentDescription(int)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.appcompat.widget.Toolbar: void setNavigationIcon(int)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.navigation.NavBackStackEntry$SavedStateViewModel: NavBackStackEntry$SavedStateViewModel(androidx.lifecycle.SavedStateHandle)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performHandwritingGesture$foundation_release(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.HandwritingGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.appcompat.view.menu.ListMenuItemView: void setGroupDividerEnabled(boolean)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ViewConfiguration getViewConfiguration()
+androidx.appcompat.widget.Toolbar: android.view.View getNavButtonView()
+androidx.compose.animation.core.PreconditionsKt: void throwIllegalArgumentException(java.lang.String)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setActionBarVisibilityCallback(androidx.appcompat.widget.ActionBarOverlayLayout$ActionBarVisibilityCallback)
+androidx.compose.ui.platform.AndroidComposeView: androidx.collection.MutableIntObjectMap getLayoutNodes()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidAccessibilityManager getAccessibilityManager()
+androidx.camera.core.impl.MetadataHolderService: MetadataHolderService()
+androidx.appcompat.widget.ActivityChooserView$InnerLayout: ActivityChooserView$InnerLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ActionMenuView: int getPopupTheme()
+androidx.appcompat.widget.AppCompatImageButton: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.compose.ui.platform.AndroidComposeView: android.view.View findViewByAccessibilityIdTraversal(int)
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathOffset()
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult[] values()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+androidx.appcompat.widget.Toolbar: int getTitleMarginTop()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+androidx.navigation.serialization.RouteBuilder$ParamType: androidx.navigation.serialization.RouteBuilder$ParamType[] values()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax valueOf(java.lang.String)
+com.squareup.moshi.JsonReader$Token: com.squareup.moshi.JsonReader$Token[] values()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setShowingForActionMode(boolean)
+androidx.compose.ui.platform.AndroidComposeView: void getShowLayoutBounds$annotations()
+androidx.compose.material3.internal.InputPhase: androidx.compose.material3.internal.InputPhase[] values()
+androidx.appcompat.widget.FitWindowsLinearLayout: FitWindowsLinearLayout(android.content.Context,android.util.AttributeSet)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority[] values()
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: android.view.View getViewRoot()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.WindowInfo getWindowInfo()
+androidx.appcompat.widget.Toolbar: int getPopupTheme()
+androidx.camera.core.impl.Config$OptionPriority: androidx.camera.core.impl.Config$OptionPriority[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: void setInsets(int,androidx.core.graphics.Insets)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathOffset(float)
+androidx.compose.material3.internal.TextFieldType: androidx.compose.material3.internal.TextFieldType valueOf(java.lang.String)
+androidx.compose.ui.node.LookaheadPassDelegate$PlacedState: androidx.compose.ui.node.LookaheadPassDelegate$PlacedState valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.appcompat.widget.Toolbar: void setTitleTextColor(int)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getSubtitle()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.appcompat.widget.LinearLayoutCompat: int getOrientation()
+androidx.compose.runtime.collection.MutableVectorKt: void throwListIndexOutOfBoundsException(int,int)
+androidx.exifinterface.media.ExifInterfaceUtils$Api23Impl: void setDataSource(android.media.MediaMetadataRetriever,android.media.MediaDataSource)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.Toolbar$Api33Impl: void tryUnregisterOnBackInvokedCallback(java.lang.Object,java.lang.Object)
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageButton: void setImageDrawable(android.graphics.drawable.Drawable)
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+androidx.appcompat.widget.ActionMenuView: void setPresenter(androidx.appcompat.widget.ActionMenuPresenter)
+coil.decode.ExifOrientationPolicy: coil.decode.ExifOrientationPolicy[] values()
+androidx.appcompat.widget.AppCompatTextHelper$Api26Impl: int getAutoSizeStepGranularity(android.widget.TextView)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathEnd()
+androidx.compose.material3.internal.TextFieldType: androidx.compose.material3.internal.TextFieldType[] values()
+androidx.appcompat.widget.Toolbar: int getContentInsetEndWithActions()
+androidx.appcompat.widget.AppCompatTextView: android.content.res.ColorStateList getSupportCompoundDrawablesTintList()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.appcompat.widget.SearchView: void setQuery(java.lang.CharSequence)
+com.google.mlkit.vision.barcode.bundled.internal.ThickBarcodeScannerCreator: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzbl newBarcodeScanner(com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzbc)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorNext(long,float[],int)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportCompoundDrawablesTintMode()
+com.google.android.gms.internal.mlkit_vision_barcode.zzpw: com.google.android.gms.internal.mlkit_vision_barcode.zzpw[] values()
+androidx.compose.animation.core.RepeatMode: androidx.compose.animation.core.RepeatMode[] values()
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetRight()
+androidx.appcompat.widget.Toolbar: void setTitleMarginBottom(int)
+androidx.appcompat.widget.Toolbar: void setContentInsetEndWithActions(int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.SoftwareKeyboardController getSoftwareKeyboardController()
+androidx.core.view.WindowInsetsCompat$BuilderImpl34: void setInsets(int,androidx.core.graphics.Insets)
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason[] values()
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand[] values()
+com.google.android.libraries.barhopper.OnedRecognitionOptions: OnedRecognitionOptions()
+androidx.appcompat.widget.DialogTitle: DialogTitle(android.content.Context,android.util.AttributeSet)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.TextToolbar getTextToolbar()
+androidx.compose.material3.ScaffoldLayoutContent: androidx.compose.material3.ScaffoldLayoutContent valueOf(java.lang.String)
+com.google.android.datatransport.cct.internal.NetworkConnectionInfo$NetworkType: com.google.android.datatransport.cct.internal.NetworkConnectionInfo$NetworkType valueOf(java.lang.String)
+androidx.appcompat.widget.DropDownListView$Api33Impl: boolean isSelectedChildViewEnabled(android.widget.AbsListView)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ClipboardManager getClipboardManager()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize[] values()
+androidx.appcompat.widget.Toolbar: void setCollapseIcon(android.graphics.drawable.Drawable)
+androidx.appcompat.view.menu.ActionMenuItemView: void setCheckable(boolean)
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType[] values()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.DrawChildContainer getContainer()
+androidx.appcompat.widget.SearchView: void setIconifiedByDefault(boolean)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.platform.AndroidComposeViewForceDarkModeQ: void disallowForceDark(android.view.View)
+androidx.compose.ui.graphics.layer.ViewLayer: boolean getCanUseCompositingLayer$ui_graphics_release()
+com.google.mlkit.common.internal.MlKitInitProvider: MlKitInitProvider()
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void clearViewTranslationCallback(android.view.View)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.ui.text.AnnotatedString,kotlin.jvm.functions.Function1)
+androidx.appcompat.widget.LinearLayoutCompat: void setShowDividers(int)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setHideOnContentScrollEnabled(boolean)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus[] values()
+com.google.android.datatransport.cct.internal.ClientInfo$ClientType: com.google.android.datatransport.cct.internal.ClientInfo$ClientType valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.input.TextInputService getTextInputService()
+androidx.room.Index$Order: androidx.room.Index$Order[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+androidx.compose.ui.platform.ViewLayer: float getCameraDistancePx()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.InsetsListener getInsetsListener()
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Api16Impl: int getMaxLines(android.widget.TextView)
+androidx.compose.ui.util.ListUtilsKt: void throwUnsupportedOperationException(java.lang.String)
+androidx.compose.ui.platform.Api35Impl: void setRequestedFrameRate(android.view.View,float)
+androidx.appcompat.widget.ViewStubCompat: void setLayoutInflater(android.view.LayoutInflater)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleY()
+androidx.appcompat.widget.ActionBarOverlayLayout: int getActionBarHideOffset()
+androidx.compose.ui.window.Api30Impl: void setFitInsetsSides(android.view.WindowManager$LayoutParams,int)
+androidx.core.widget.NestedScrollView: float getTopFadingEdgeStrength()
+androidx.appcompat.widget.SearchView: void setSuggestionsAdapter(androidx.cursoradapter.widget.CursorAdapter)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performDeletion-Sb-Bc2M(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,long,boolean)
+androidx.appcompat.widget.ViewStubCompat: void setLayoutResource(int)
+androidx.compose.runtime.PreconditionsKt: void throwIllegalStateException(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeAlpha()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.appcompat.widget.Toolbar: void setPopupTheme(int)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isTypeVisible(int)
+androidx.compose.foundation.text.input.internal.CursorAnchorInfoApi33Helper: android.view.inputmethod.CursorAnchorInfo$Builder setEditorBoundsInfo(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.geometry.Rect)
+androidx.compose.ui.platform.AndroidComposeView: void getRoot$annotations()
+androidx.appcompat.widget.Toolbar: void setSubtitleTextColor(int)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority valueOf(java.lang.String)
+androidx.core.widget.EdgeEffectCompat$Api21Impl: void onPull(android.widget.EdgeEffect,float,float)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isVisible(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotX(float)
+com.squareup.moshi.JsonReader$Token: com.squareup.moshi.JsonReader$Token valueOf(java.lang.String)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+com.google.android.gms.common.api.internal.zzd: zzd()
+androidx.compose.foundation.text.input.internal.Api34LegacyPerformHandwritingGestureImpl: boolean previewHandwritingGesture(androidx.compose.foundation.text.LegacyTextFieldState,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.view.inputmethod.PreviewableHandwritingGesture,android.os.CancellationSignal)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OutOfFrameExecutor getOutOfFrameExecutor()
+androidx.appcompat.view.menu.ActionMenuItemView: void setTitle(java.lang.CharSequence)
+androidx.compose.ui.window.PopupLayout: void getParams$ui_release$annotations()
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeMaxTextSize()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateX(float)
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.ui.text.AnnotatedString,kotlin.jvm.functions.Function1)
+androidx.appcompat.widget.SearchView: void setQueryHint(java.lang.CharSequence)
+com.google.android.datatransport.runtime.backends.BackendResponse$Status: com.google.android.datatransport.runtime.backends.BackendResponse$Status[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners get_viewTreeOwners()
+androidx.appcompat.view.menu.ExpandedMenuView: int getWindowAnimations()
+androidx.compose.ui.graphics.layer.view.PlaceholderHardwareCanvas: boolean isHardwareAccelerated()
+androidx.core.widget.NestedScrollView: float getVerticalScrollFactorCompat()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getMinWidthMajor()
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState[] values()
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setDropDownBackgroundResource(int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNode getRoot()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isVisible(int)
+androidx.compose.ui.window.PopupLayout: void setParentLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+androidx.appcompat.widget.Toolbar: void setOverflowIcon(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.ButtonBarLayout: ButtonBarLayout(android.content.Context,android.util.AttributeSet)
+com.google.android.libraries.barhopper.BarhopperV3: void closeNative(long)
+androidx.appcompat.widget.AppCompatTextView: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzbn: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzbo asInterface(android.os.IBinder)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerPadding(int)
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzep: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzep[] values()
+androidx.compose.runtime.PreconditionsKt: void throwIllegalArgumentException(java.lang.String)
+androidx.compose.ui.platform.OutlineVerificationHelper: void setPath(android.graphics.Outline,androidx.compose.ui.graphics.Path)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: void setPathData(androidx.core.graphics.PathParser$PathDataNode[])
+androidx.core.view.ViewCompat$Api30Impl: android.view.WindowInsets dispatchApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+okhttp3.TlsVersion: okhttp3.TlsVersion valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: android.graphics.Matrix getLocalMatrix()
+androidx.appcompat.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getHolderToLayoutNode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateY(float)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetEnd()
+androidx.appcompat.widget.AppCompatTextView: void setBackgroundResource(int)
+androidx.compose.ui.platform.AndroidComposeView: void setDensity(androidx.compose.ui.unit.Density)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+androidx.core.widget.EdgeEffectCompat$Api31Impl: float getDistance(android.widget.EdgeEffect)
+androidx.appcompat.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context,android.util.AttributeSet)
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzho: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzho[] values()
+androidx.appcompat.widget.SearchView: void setAppSearchData(android.os.Bundle)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+com.google.android.datatransport.runtime.scheduling.jobscheduling.SchedulerConfig$Flag: com.google.android.datatransport.runtime.scheduling.jobscheduling.SchedulerConfig$Flag valueOf(java.lang.String)
+androidx.compose.ui.internal.InlineClassHelperKt: java.lang.Void throwIllegalStateExceptionForNullCheck(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setTitle(java.lang.CharSequence)
+androidx.appcompat.widget.ActionMenuView: android.view.Menu getMenu()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.core.widget.NestedScrollView: int getNestedScrollAxes()
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.appcompat.widget.Toolbar: int getTitleMarginBottom()
+androidx.appcompat.widget.AppCompatImageView: void setImageResource(int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.Placeable$PlacementScope getPlacementScope()
+androidx.compose.ui.window.PopupLayout: void setTestTag(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.AndroidDragAndDropManager getDragAndDropManager()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedHeightMajor()
+androidx.core.view.ViewCompat$Api21Impl: void stopNestedScroll(android.view.View)
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api29Impl: void saveAttributeDataForStyleable(android.view.View,android.content.Context,int[],android.util.AttributeSet,android.content.res.TypedArray,int,int)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setWindowTitle(java.lang.CharSequence)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens[] values()
+androidx.appcompat.widget.ViewStubCompat: int getLayoutResource()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+androidx.appcompat.widget.Toolbar: void setCollapseContentDescription(java.lang.CharSequence)
+androidx.appcompat.widget.Toolbar$Api33Impl: android.window.OnBackInvokedCallback newOnBackInvokedCallback(java.lang.Runnable)
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation valueOf(java.lang.String)
+androidx.compose.ui.platform.ViewLayer: long getOwnerViewId()
+androidx.compose.ui.platform.AndroidComposeViewStartDragAndDropN: boolean startDragAndDrop(android.view.View,androidx.compose.ui.draganddrop.DragAndDropTransferData,androidx.compose.ui.draganddrop.ComposeDragShadowBuilder)
+androidx.appcompat.widget.DropDownListView$Api33Impl: void setSelectedChildViewEnabled(android.widget.AbsListView,boolean)
+androidx.appcompat.widget.Toolbar: void setTitleMarginTop(int)
+androidx.appcompat.widget.Toolbar: void setLogoDescription(java.lang.CharSequence)
+androidx.compose.ui.graphics.AndroidPath_androidKt: void throwIllegalStateException(java.lang.String)
+androidx.appcompat.widget.Toolbar: void setTitleMarginEnd(int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+androidx.appcompat.widget.AppCompatImageView: android.content.res.ColorStateList getSupportBackgroundTintList()
+androidx.appcompat.widget.ListPopupWindow$Api29Impl: void setEpicenterBounds(android.widget.PopupWindow,android.graphics.Rect)
+androidx.compose.ui.platform.ViewLayer: long getLayerId()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+androidx.appcompat.view.menu.ActionMenuItemView: void setItemInvoker(androidx.appcompat.view.menu.MenuBuilder$ItemInvoker)
+androidx.appcompat.widget.Toolbar: java.util.ArrayList getCurrentMenuItems()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedHeightMinor()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+androidx.core.view.WindowInsetsCompat$Impl30: boolean isVisible(int)
+androidx.core.widget.NestedScrollView: void setNestedScrollingEnabled(boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportCompoundDrawablesTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.FitWindowsFrameLayout: void setOnFitSystemWindowsListener(androidx.appcompat.widget.FitWindowsViewGroup$OnFitSystemWindowsListener)
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+androidx.compose.ui.platform.ViewLayer: void setFrameRate(float)
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.pointer.PointerIconService getPointerIconService()
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setSearchView(androidx.appcompat.widget.SearchView)
+com.google.android.datatransport.cct.CctBackendFactory: CctBackendFactory()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority[] values()
+androidx.appcompat.widget.Toolbar: void setNavigationContentDescription(int)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+androidx.appcompat.widget.ActionBarContextView: java.lang.CharSequence getSubtitle()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performInsertGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.InsertGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.appcompat.widget.SearchView: int getPreferredHeight()
+androidx.appcompat.widget.AppCompatTextView: void setCustomSelectionActionModeCallback(android.view.ActionMode$Callback)
+com.google.android.datatransport.runtime.backends.TransportBackendDiscovery: TransportBackendDiscovery()
+androidx.appcompat.widget.Toolbar: void setSubtitle(int)
+androidx.core.widget.NestedScrollView: int getMaxScrollAmount()
+androidx.appcompat.widget.AppCompatImageButton: android.graphics.PorterDuff$Mode getSupportImageTintMode()
+androidx.core.widget.NestedScrollView: androidx.core.view.ScrollFeedbackProviderCompat getScrollFeedbackProvider()
+androidx.appcompat.widget.AppCompatImageButton: android.content.res.ColorStateList getSupportImageTintList()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+androidx.appcompat.widget.SearchView: void setOnQueryTextFocusChangeListener(android.view.View$OnFocusChangeListener)
+androidx.appcompat.widget.Toolbar: Toolbar(android.content.Context,android.util.AttributeSet)
+androidx.graphics.path.PathIteratorPreApi34Impl: long createInternalPathIterator(android.graphics.Path,int,float)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getRotation()
+okhttp3.Protocol: okhttp3.Protocol[] values()
+androidx.appcompat.widget.ActionBarContainer: void setVisibility(int)
+com.google.android.datatransport.cct.internal.QosTier: com.google.android.datatransport.cct.internal.QosTier valueOf(java.lang.String)
+androidx.compose.ui.unit.ConstraintsKt: java.lang.Void throwInvalidConstraintsSizeException(int)
+androidx.exifinterface.media.ExifInterfaceUtils$Api21Impl: void close(java.io.FileDescriptor)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.appcompat.resources.Compatibility$Api21Impl: android.graphics.drawable.Drawable createFromXmlInner(android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
+androidx.appcompat.widget.AppCompatTextView: void setTextMetricsParamsCompat(androidx.core.text.PrecomputedTextCompat$Params)
+androidx.compose.ui.graphics.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerWidth()
+androidx.appcompat.view.menu.ActionMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetStart()
+kotlin.DeprecationLevel: kotlin.DeprecationLevel valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatTextView: void setTextClassifier(android.view.textclassifier.TextClassifier)
+androidx.appcompat.widget.MenuPopupWindow$Api29Impl: void setTouchModal(android.widget.PopupWindow,boolean)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathEnd(float)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+androidx.appcompat.widget.AppCompatTextHelper$Api17Impl: void setCompoundDrawablesRelativeWithIntrinsicBounds(android.widget.TextView,android.graphics.drawable.Drawable,android.graphics.drawable.Drawable,android.graphics.drawable.Drawable,android.graphics.drawable.Drawable)
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performSelectionOnLegacyTextField-8ffj60Q(long,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+androidx.appcompat.widget.AppCompatTextView: androidx.appcompat.widget.AppCompatTextView$SuperCaller getSuperCaller()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedWidthMinor()
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl34)
+androidx.appcompat.widget.Toolbar: void setLogoDescription(int)
+androidx.compose.ui.platform.AbstractComposeView: boolean getHasComposition()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.compose.ui.platform.AndroidComposeView: void setUncaughtExceptionHandler(androidx.compose.ui.node.RootForTest$UncaughtExceptionHandler)
+androidx.core.view.WindowInsetsCompat$Impl34: boolean isVisible(int)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.appcompat.widget.LinearLayoutCompat: void setHorizontalGravity(int)
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Api16Impl: android.text.StaticLayout createStaticLayoutForMeasuring(java.lang.CharSequence,android.text.Layout$Alignment,int,android.widget.TextView,android.text.TextPaint)
+androidx.appcompat.widget.Toolbar: void setSubtitleTextColor(android.content.res.ColorStateList)
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.compose.animation.core.RepeatMode: androidx.compose.animation.core.RepeatMode valueOf(java.lang.String)
+androidx.appcompat.resources.Compatibility$Api21Impl: int getChangingConfigurations(android.content.res.TypedArray)
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor[] values()
+androidx.compose.ui.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+com.google.android.gms.internal.mlkit_vision_barcode.zzpv: com.google.android.gms.internal.mlkit_vision_barcode.zzpv[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performJoinOrSplitGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.JoinOrSplitGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setInsets(int,androidx.core.graphics.Insets)
+androidx.appcompat.widget.ActionBarOverlayLayout: java.lang.CharSequence getTitle()
+androidx.core.view.ViewCompat$Api21Impl: android.graphics.PorterDuff$Mode getBackgroundTintMode(android.view.View)
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: void setContent(kotlin.jvm.functions.Function2)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableDelegateState: int getChangingConfigurations()
+androidx.compose.runtime.collection.MutableVectorKt: void throwNegativeIndexException(int)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.AppCompatTextView: void setFilters(android.text.InputFilter[])
+androidx.appcompat.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.Context,android.util.AttributeSet)
+com.google.android.gms.common.api.internal.zzb: zzb()
+androidx.compose.ui.platform.AndroidComposeView: void setOnViewTreeOwnersAvailable(kotlin.jvm.functions.Function1)
+androidx.compose.runtime.collection.MutableVectorKt: void throwReversedIndicesException(int,int)
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.EditorInfoApi34: void setHandwritingGestures(android.view.inputmethod.EditorInfo)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathStart()
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+androidx.compose.ui.platform.AndroidComposeView: void set_viewTreeOwners(androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners)
+androidx.appcompat.widget.AppCompatImageView: void setSupportImageTintMode(android.graphics.PorterDuff$Mode)
+androidx.compose.ui.platform.AndroidComposeView: void setCoroutineContext(kotlin.coroutines.CoroutineContext)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: java.lang.String getPathName()
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context,android.util.AttributeSet)
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens valueOf(java.lang.String)
+androidx.appcompat.widget.SearchView: void setSearchableInfo(android.app.SearchableInfo)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.Toolbar: void setNavigationOnClickListener(android.view.View$OnClickListener)
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageView: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+com.google.android.datatransport.runtime.scheduling.jobscheduling.SchedulerConfig$Flag: com.google.android.datatransport.runtime.scheduling.jobscheduling.SchedulerConfig$Flag[] values()
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzb: boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+androidx.appcompat.widget.SearchView: int getMaxWidth()
+androidx.appcompat.widget.LinearLayoutCompat: void setOrientation(int)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathStart(float)
+com.google.android.datatransport.cct.internal.NetworkConnectionInfo$MobileSubtype: com.google.android.datatransport.cct.internal.NetworkConnectionInfo$MobileSubtype[] values()
+androidx.compose.ui.text.internal.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsO: void focusable(android.view.View,int,boolean)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.semantics.SemanticsOwner getSemanticsOwner()
+com.example.usagi_tienda_app.MainActivity: MainActivity()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.Clipboard getClipboard()
+androidx.appcompat.widget.Toolbar: void setOnMenuItemClickListener(androidx.appcompat.widget.Toolbar$OnMenuItemClickListener)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl29: void computeAndSetTextDirection(android.text.StaticLayout$Builder,android.widget.TextView)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState valueOf(java.lang.String)
+androidx.graphics.path.ConicConverter: int internalConicToQuadratics(float[],int,float[],float,float)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+androidx.fragment.app.FragmentContainerView: void setDrawDisappearingViewsLast(boolean)
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand valueOf(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: android.graphics.drawable.Drawable getDividerDrawable()
+androidx.appcompat.widget.LinearLayoutCompat: void setVerticalGravity(int)
+androidx.appcompat.widget.Toolbar: int getContentInsetEnd()
+androidx.appcompat.widget.ActionMenuView: int getWindowAnimations()
+androidx.compose.foundation.Api31Impl: float onPullDistance(android.widget.EdgeEffect,float,float)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest$UncaughtExceptionHandler getUncaughtExceptionHandler$ui_release()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performInsertionOnLegacyTextField(int,java.lang.String,kotlin.jvm.functions.Function1)
+androidx.appcompat.widget.SearchView: void setOnSearchClickListener(android.view.View$OnClickListener)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.ui.platform.AbstractComposeView: void setShowLayoutBounds(boolean)
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens valueOf(java.lang.String)
+androidx.appcompat.widget.ContentFrameLayout: void setAttachListener(androidx.appcompat.widget.ContentFrameLayout$OnAttachListener)
+androidx.core.view.WindowInsetsCompat$Impl34: WindowInsetsCompat$Impl34(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+coil.size.Precision: coil.size.Precision valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeColor(int)
+androidx.appcompat.widget.SearchView: void setMaxWidth(int)
+androidx.appcompat.widget.AppCompatTextHelper$Api26Impl: boolean setFontVariationSettings(android.widget.TextView,java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.Autofill getAutofill()
+androidx.appcompat.widget.Toolbar: int getTitleMarginEnd()
+androidx.appcompat.widget.ActionBarContainer: void setTabContainer(androidx.appcompat.widget.ScrollingTabContainerView)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType[] values()
+androidx.compose.ui.platform.CalculateMatrixToWindowApi29: void calculateMatrixToWindow-EL8BTi8(android.view.View,float[])
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.appcompat.resources.Compatibility$Api21Impl: void inflate(android.graphics.drawable.Drawable,android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.FontFamily$Resolver getFontFamilyResolver()
+androidx.appcompat.widget.Toolbar: int getCurrentContentInsetLeft()
+androidx.core.view.ViewCompat$Api21Impl: void setBackgroundTintMode(android.view.View,android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.AppCompatTextView: int getAutoSizeMinTextSize()
+androidx.appcompat.widget.Toolbar: androidx.appcompat.widget.ActionMenuPresenter getOuterActionMenuPresenter()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.emoji2.text.EmojiExclusions$EmojiExclusions_Api34: java.util.Set getExclusions()
+androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact: androidx.fragment.app.SpecialEffectsController$Operation$LifecycleImpact valueOf(java.lang.String)
+androidx.appcompat.widget.Toolbar$Api33Impl: void tryRegisterOnBackInvokedCallback(java.lang.Object,java.lang.Object)
+androidx.appcompat.widget.Toolbar: android.view.MenuInflater getMenuInflater()
+androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior: androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior[] values()
+androidx.compose.ui.graphics.layer.view.ViewLayerContainer: void dispatchGetDisplayList()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Api18Impl: boolean isInLayout(android.view.View)
+androidx.appcompat.widget.LinearLayoutCompat: void setDividerDrawable(android.graphics.drawable.Drawable)
+androidx.compose.ui.platform.AbstractComposeView: void setTransitionGroup(boolean)
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.runtime.PausedCompositionState: androidx.compose.runtime.PausedCompositionState[] values()
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand[] values()
+androidx.compose.material3.internal.InputPhase: androidx.compose.material3.internal.InputPhase valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.LocaleListHelper: void setHintLocales(android.view.inputmethod.EditorInfo,androidx.compose.ui.text.intl.LocaleList)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboard getClipboard()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int toTextGranularity-NUwxegE(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl31: WindowInsetsCompat$BuilderImpl31()
+androidx.appcompat.widget.AppCompatImageButton: void setImageBitmap(android.graphics.Bitmap)
+androidx.compose.ui.platform.AndroidCompositionLocals_androidKt: androidx.compose.runtime.ProvidableCompositionLocal getLocalLifecycleOwner()
+androidx.graphics.path.PathIteratorPreApi34Impl: void destroyInternalPathIterator(long)
+androidx.appcompat.widget.ViewStubCompat: android.view.LayoutInflater getLayoutInflater()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult[] values()
+androidx.appcompat.widget.AppCompatTextHelper$Api28Impl: android.graphics.Typeface create(android.graphics.Typeface,int,boolean)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setRotation(float)
+androidx.core.view.WindowInsetsCompat$Impl34: androidx.core.graphics.Insets getInsets(int)
+androidx.appcompat.widget.ActionBarContextView: void setTitleOptional(boolean)
+androidx.appcompat.widget.Toolbar: void setBackInvokedCallbackEnabled(boolean)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+androidx.appcompat.widget.AppCompatTextView: void setTextFuture(java.util.concurrent.Future)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getCollapseIcon()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setWindowCallback(android.view.Window$Callback)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotX()
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzs: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzs[] values()
+androidx.appcompat.widget.LinearLayoutCompat: float getWeightSum()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.view.WindowInsetsCompat inset(int,int,int,int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidViewsHandler getAndroidViewsHandler$ui_release()
+com.google.mlkit.vision.common.internal.VisionCommonRegistrar: VisionCommonRegistrar()
+androidx.fragment.app.SpecialEffectsController$Operation$State: androidx.fragment.app.SpecialEffectsController$Operation$State[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: boolean previewHandwritingGesture$foundation_release(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.PreviewableHandwritingGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.os.CancellationSignal)
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.appcompat.widget.ActionBarContainer: void setSplitBackground(android.graphics.drawable.Drawable)
+androidx.compose.runtime.SlotTableKt: void throwConcurrentModificationException()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeAlpha(float)
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation: LegacySavedStateHandleController$OnRecreation()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: androidx.core.graphics.PathParser$PathDataNode[] getPathData()
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand valueOf(java.lang.String)
+androidx.appcompat.widget.SearchView: int getImeOptions()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityHeading(android.view.View,boolean)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.appcompat.view.menu.ListMenuItemView: void setChecked(boolean)
+androidx.appcompat.widget.LinearLayoutCompat: int getBaselineAlignedChildIndex()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+androidx.compose.ui.window.PopupLayout: android.view.WindowManager$LayoutParams getParams$ui_release()
+androidx.appcompat.widget.ActionBarContextView: void setVisibility(int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.AppCompatTextView: void setFirstBaselineToTopHeight(int)
+androidx.core.view.ViewCompat$Api30Impl: void setStateDescription(android.view.View,java.lang.CharSequence)
+androidx.room.MultiInstanceInvalidationService: MultiInstanceInvalidationService()
+com.google.android.datatransport.cct.internal.NetworkConnectionInfo$MobileSubtype: com.google.android.datatransport.cct.internal.NetworkConnectionInfo$MobileSubtype valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.IntSize getPopupContentSize-bOM6tXw()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhp: com.google.android.gms.internal.mlkit_vision_barcode_bundled.zzhp[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest getRootForTest()
+androidx.appcompat.widget.AppCompatImageButton: void setImageResource(int)
+androidx.compose.ui.unit.ConstraintsKt: void throwInvalidConstraintException(int,int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeWidth()
+com.google.android.gms.common.SupportErrorDialogFragment: SupportErrorDialogFragment()
+androidx.compose.ui.platform.AndroidComposeView: androidx.collection.IntObjectMap getLayoutNodes()
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getFixedWidthMajor()
+androidx.appcompat.widget.AppCompatTextView: android.view.ActionMode$Callback getCustomSelectionActionModeCallback()
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+androidx.appcompat.widget.ActionBarContextView: int getContentHeight()
+androidx.core.view.ViewCompat$Api28Impl: void setScreenReaderFocusable(android.view.View,boolean)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getFillColor()
+androidx.navigation.compose.BackStackEntryIdViewModel: BackStackEntryIdViewModel(androidx.lifecycle.SavedStateHandle)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.compose.animation.core.PreconditionsKt: void throwIllegalStateException(java.lang.String)
+androidx.room.Index$Order: androidx.room.Index$Order valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.Api34LegacyPerformHandwritingGestureImpl: void performHandwritingGesture(androidx.compose.foundation.text.LegacyTextFieldState,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.view.inputmethod.HandwritingGesture,androidx.compose.ui.platform.ViewConfiguration,java.util.concurrent.Executor,java.util.function.IntConsumer,kotlin.jvm.functions.Function1)
+androidx.exifinterface.media.ExifInterfaceUtils$Api21Impl: java.io.FileDescriptor dup(java.io.FileDescriptor)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode[] values()
+androidx.appcompat.widget.LinearLayoutCompat: int getGravity()
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+androidx.appcompat.widget.ViewStubCompat: ViewStubCompat(android.content.Context,android.util.AttributeSet)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.Density getDensity()
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens[] values()
+androidx.compose.ui.window.PopupLayout: void setPositionProvider(androidx.compose.ui.window.PopupPositionProvider)
+androidx.appcompat.widget.AppCompatImageView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20(androidx.core.view.WindowInsetsCompat)
+androidx.appcompat.widget.AppCompatTextView: android.view.textclassifier.TextClassifier getTextClassifier()
+androidx.compose.ui.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+com.google.android.datatransport.cct.internal.QosTier: com.google.android.datatransport.cct.internal.QosTier[] values()
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatTextView: void setAutoSizeTextTypeWithDefaults(int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.LayoutDirection getLayoutDirection()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.appcompat.widget.ActionBarContainer: void setStackedBackground(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl: void computeAndSetTextDirection(android.text.StaticLayout$Builder,android.widget.TextView)
+androidx.appcompat.view.menu.ListMenuItemView: android.view.LayoutInflater getInflater()
+androidx.compose.ui.unit.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.AppCompatImageView: void setImageURI(android.net.Uri)
+androidx.compose.ui.platform.ViewLayer: void setInvalidated(boolean)
+coil.request.CachePolicy: coil.request.CachePolicy valueOf(java.lang.String)
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy[] values()
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: void setSupportBackgroundTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.AppCompatTextView: void setLastBaselineToBottomHeight(int)
+androidx.appcompat.app.AlertController$RecycleListView: AlertController$RecycleListView(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+androidx.appcompat.widget.SearchView: int getSuggestionCommitIconResId()
+androidx.appcompat.view.menu.MenuPopupHelper$Api17Impl: void getRealSize(android.view.Display,android.graphics.Point)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.activity.ComponentActivity: void setContentView(android.view.View)
+androidx.core.widget.NestedScrollView: NestedScrollView(android.content.Context,android.util.AttributeSet)
+androidx.core.widget.NestedScrollView: void setSmoothScrollingEnabled(boolean)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass valueOf(java.lang.String)
+androidx.compose.ui.window.Api30Impl: void setFitInsetsTypes(android.view.WindowManager$LayoutParams,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: boolean previewHandwritingGesture$foundation_release(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.PreviewableHandwritingGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,android.os.CancellationSignal)
+androidx.appcompat.widget.Toolbar: android.content.Context getPopupContext()
+androidx.appcompat.widget.Toolbar: void setLogo(int)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+com.google.android.libraries.barhopper.RecognitionOptions: RecognitionOptions()
+androidx.core.widget.EdgeEffectCompat$Api31Impl: android.widget.EdgeEffect create(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatImageView: android.content.res.ColorStateList getSupportImageTintList()
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState valueOf(java.lang.String)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: void setThreshold(int)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+androidx.appcompat.widget.AppCompatTextView: android.graphics.PorterDuff$Mode getSupportBackgroundTintMode()
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api28Impl: void setAccessibilityPaneTitle(android.view.View,java.lang.CharSequence)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getTitle()
+com.example.usagi_tienda_app.data.UsagiDatabase_Impl: UsagiDatabase_Impl()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.AndroidComposeView getOwnerView()
+androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior: androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior valueOf(java.lang.String)
+androidx.appcompat.widget.ActionBarContextView: void setCustomView(android.view.View)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel: LoaderManagerImpl$LoaderViewModel()
+androidx.appcompat.widget.SearchView: void setIconified(boolean)
+com.example.usagi_tienda_app.data.UsagiDatabase: UsagiDatabase()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotY(float)
+androidx.appcompat.widget.SearchView: void setOnCloseListener(androidx.appcompat.widget.SearchView$OnCloseListener)
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.appcompat.widget.SearchView: int getInputType()
+androidx.compose.ui.platform.AndroidComposeView: void getTextInputService$annotations()
+com.google.mlkit.common.internal.MlKitComponentDiscoveryService: MlKitComponentDiscoveryService()
+androidx.appcompat.widget.SearchView: int getPreferredWidth()
+com.google.android.libraries.barhopper.BarhopperV3: long createNativeWithClientOptions(byte[])
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+androidx.compose.foundation.text.input.internal.Api34StartStylusHandwriting: void startStylusHandwriting(android.view.inputmethod.InputMethodManager,android.view.View)
+androidx.appcompat.widget.SearchView: int getSuggestionRowLayout()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.DragAndDropManager getDragAndDropManager()
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax[] values()
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+androidx.compose.ui.platform.AbstractComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.material.ripple.UnprojectedRipple$MRadiusHelper: void setRadius(android.graphics.drawable.RippleDrawable,int)
+coil.request.CachePolicy: coil.request.CachePolicy[] values()
+coil.decode.ExifOrientationPolicy: coil.decode.ExifOrientationPolicy valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.appcompat.widget.ActionBarContextView: java.lang.CharSequence getTitle()
+androidx.appcompat.widget.ActionMenuView: void setOverflowIcon(android.graphics.drawable.Drawable)
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.spatial.RectManager getRectManager()
+androidx.compose.ui.platform.AndroidComposeView: void getFontLoader$annotations()
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption[] values()
+androidx.appcompat.widget.AppCompatTextView: androidx.core.text.PrecomputedTextCompat$Params getTextMetricsParamsCompat()
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setAlpha(float)
+androidx.compose.ui.window.PopupLayout: java.lang.String getTestTag()
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption valueOf(java.lang.String)
+androidx.camera.camera2.Camera2Config$DefaultProvider: androidx.camera.core.CameraXConfig getCameraXConfig()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState: int getChangingConfigurations()
+androidx.appcompat.widget.SearchView: void setSubmitButtonEnabled(boolean)
+androidx.appcompat.widget.FitWindowsFrameLayout: FitWindowsFrameLayout(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.AppCompatImageButton: void setSupportImageTintMode(android.graphics.PorterDuff$Mode)
+androidx.appcompat.widget.ContentFrameLayout: android.util.TypedValue getMinWidthMinor()
+androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl29: AppCompatTextViewAutoSizeHelper$Impl29()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setIcon(int)
+androidx.compose.material3.SnackbarResult: androidx.compose.material3.SnackbarResult[] values()
+androidx.appcompat.widget.AppCompatTextClassifierHelper$Api26Impl: android.view.textclassifier.TextClassifier getTextClassifier(android.widget.TextView)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleY(float)
+androidx.exifinterface.media.ExifInterfaceUtils$Api21Impl: long lseek(java.io.FileDescriptor,long,int)
+androidx.appcompat.widget.ContentFrameLayout: ContentFrameLayout(android.content.Context,android.util.AttributeSet)
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatImageView: void setBackgroundResource(int)
+com.google.android.gms.internal.mlkit_vision_barcode.zzte: com.google.android.gms.internal.mlkit_vision_barcode.zzte[] values()
+androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.compose.ui.platform.ViewLayer: float[] getUnderlyingMatrix-sQKQjiQ()
+androidx.compose.ui.graphics.layer.ViewLayer: androidx.compose.ui.graphics.CanvasHolder getCanvasHolder()
+androidx.compose.ui.platform.AbstractComposeView: void getShowLayoutBounds$annotations()
+androidx.appcompat.widget.AppCompatTextHelper$Api26Impl: void setAutoSizeTextTypeUniformWithPresetSizes(android.widget.TextView,int[],int)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.google.android.datatransport.Priority: com.google.android.datatransport.Priority[] values()
+com.google.mlkit.common.sdkinternal.zzh: com.google.mlkit.common.sdkinternal.zzh[] values()
+androidx.compose.foundation.text.input.internal.undo.TextEditType: androidx.compose.foundation.text.input.internal.undo.TextEditType valueOf(java.lang.String)
+com.google.android.gms.dynamite.descriptors.com.google.mlkit.dynamite.barcode.ModuleDescriptor: ModuleDescriptor()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performHandwritingGesture$foundation_release(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.HandwritingGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+androidx.appcompat.widget.ButtonBarLayout: void setAllowStacking(boolean)
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.appcompat.widget.AppCompatTextView: void setEmojiCompatEnabled(boolean)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.SearchView: void setImeOptions(int)
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems[] values()
+androidx.appcompat.widget.SearchView: SearchView(android.content.Context)
+androidx.appcompat.widget.AppCompatTextHelper$Api17Impl: android.graphics.drawable.Drawable[] getCompoundDrawablesRelative(android.widget.TextView)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction[] values()
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.window.PopupPositionProvider getPositionProvider()
+androidx.appcompat.widget.LinearLayoutCompat: void setMeasureWithLargestChildEnabled(boolean)
+androidx.compose.ui.text.internal.InlineClassHelperKt: void throwIllegalStateException(java.lang.String)
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy[] values()
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getNavigationIcon()
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getNavigationContentDescription()
+androidx.compose.runtime.collection.MutableVectorKt: void throwOutOfRangeException(int,int)
+androidx.appcompat.widget.AppCompatImageButton: void setBackgroundResource(int)
+androidx.compose.ui.platform.ComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.foundation.Api31Impl: android.widget.EdgeEffect create(android.content.Context,android.util.AttributeSet)
+androidx.compose.ui.unit.InlineClassHelperKt: void throwIllegalArgumentException(java.lang.String)
+androidx.compose.runtime.ComposerKt: java.lang.Void composeRuntimeError(java.lang.String)
+com.google.android.gms.common.GooglePlayServicesMissingManifestValueException: GooglePlayServicesMissingManifestValueException()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: int getRootAlpha()
+androidx.appcompat.view.menu.ListMenuItemView: void setCheckable(boolean)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.appcompat.view.menu.ActionMenuItemView: androidx.appcompat.view.menu.MenuItemImpl getItemData()
+androidx.appcompat.widget.AppCompatTextView: void setSupportCompoundDrawablesTintList(android.content.res.ColorStateList)
+androidx.appcompat.widget.Toolbar: void setTitleTextColor(android.content.res.ColorStateList)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.appcompat.widget.LinearLayoutCompat: int getShowDividers()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax[] values()
+androidx.fragment.app.FragmentContainerView: void setOnApplyWindowInsetsListener(android.view.View$OnApplyWindowInsetsListener)
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+androidx.compose.ui.platform.AndroidCompositionLocals_androidKt: androidx.compose.runtime.ProvidableCompositionLocal getLocalSavedStateRegistryOwner()
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor valueOf(java.lang.String)
+androidx.startup.InitializationProvider: InitializationProvider()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+com.google.android.datatransport.cct.internal.NetworkConnectionInfo$NetworkType: com.google.android.datatransport.cct.internal.NetworkConnectionInfo$NetworkType[] values()
+androidx.appcompat.widget.AppCompatTextView: void setLineHeight(int)
+coil.decode.DataSource: coil.decode.DataSource valueOf(java.lang.String)
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.graphics.Path getManualClipPath()
+androidx.compose.ui.platform.MotionEventVerifierApi29: boolean isValidMotionEvent(android.view.MotionEvent,int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillTree getAutofillTree()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: java.lang.String getGroupName()
+androidx.appcompat.widget.Toolbar: int getContentInsetLeft()
+androidx.navigation.compose.DialogNavigator: DialogNavigator()
+androidx.appcompat.widget.ListPopupWindow$Api29Impl: void setIsClippedToScreen(android.widget.PopupWindow,boolean)
+androidx.compose.ui.platform.AndroidComposeView: void setUncaughtExceptionHandler$ui_release(androidx.compose.ui.node.RootForTest$UncaughtExceptionHandler)
+androidx.appcompat.widget.DropDownListView: void setListSelectionHidden(boolean)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int fallbackOnLegacyTextField(android.view.inputmethod.HandwritingGesture,kotlin.jvm.functions.Function1)
+androidx.appcompat.widget.AppCompatTextHelper$Api17Impl: void setTextLocale(android.widget.TextView,java.util.Locale)
+androidx.appcompat.widget.SearchView: androidx.cursoradapter.widget.CursorAdapter getSuggestionsAdapter()
+androidx.compose.ui.platform.ViewLayerContainer: void dispatchGetDisplayList()
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getLayoutNodeToHolder()
+com.example.usagi_tienda_app.data.FavoriteCategory: com.example.usagi_tienda_app.data.FavoriteCategory valueOf(java.lang.String)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setUiOptions(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setRootAlpha(int)
+androidx.compose.material3.ScaffoldLayoutContent: androidx.compose.material3.ScaffoldLayoutContent[] values()
+androidx.compose.ui.platform.ComposeView: java.lang.CharSequence getAccessibilityClassName()
+androidx.compose.material.ripple.RippleHostView: void setRippleState$lambda$2(androidx.compose.material.ripple.RippleHostView)
+androidx.appcompat.resources.Compatibility$Api18Impl: void setAutoCancel(android.animation.ObjectAnimator,boolean)
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.appcompat.widget.AppCompatAutoCompleteTextView: android.view.ActionMode$Callback getCustomSelectionActionModeCallback()
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateY()
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode[] values()
+androidx.appcompat.widget.ActionBarContainer: ActionBarContainer(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ViewStubCompat: void setInflatedId(int)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+com.google.android.libraries.barhopper.BarhopperV3: byte[] recognizeBitmapNative(long,android.graphics.Bitmap,com.google.android.libraries.barhopper.RecognitionOptions)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass[] values()
+androidx.compose.ui.platform.AndroidComposeView: long getLastMatrixRecalculationAnimationTime$ui_release()
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent[] values()
+androidx.compose.ui.graphics.layer.ViewLayer: void setInvalidated(boolean)
+coil.size.Scale: coil.size.Scale[] values()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performDeletionOnLegacyTextField-vJH6DeI(long,androidx.compose.ui.text.AnnotatedString,boolean,kotlin.jvm.functions.Function1)
+okhttp3.Protocol: okhttp3.Protocol valueOf(java.lang.String)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.appcompat.widget.SearchView: void setInputType(int)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+androidx.appcompat.widget.FitWindowsLinearLayout: void setOnFitSystemWindowsListener(androidx.appcompat.widget.FitWindowsViewGroup$OnFitSystemWindowsListener)
+androidx.compose.ui.platform.AndroidComposeView: void getLastMatrixRecalculationAnimationTime$ui_release$annotations()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.graphics.GraphicsContext getGraphicsContext()
+com.example.usagi_tienda_app.presentation.photos.PhotosViewModel: PhotosViewModel()
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getCollapseContentDescription()
+com.google.android.gms.common.api.GoogleApiActivity: GoogleApiActivity()
+androidx.appcompat.widget.Toolbar: androidx.appcompat.widget.DecorToolbar getWrapper()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView getOutOfFrameExecutor()
+androidx.appcompat.widget.LinearLayoutCompat: void setWeightSum(float)
+androidx.appcompat.view.menu.ListMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+androidx.core.view.WindowInsetsCompat$Impl31: WindowInsetsCompat$Impl31(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.appcompat.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.ActionMenuView: ActionMenuView(android.content.Context,android.util.AttributeSet)
+androidx.appcompat.widget.MenuPopupWindow$Api23Impl: void setEnterTransition(android.widget.PopupWindow,android.transition.Transition)
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1: FocusableKt$FocusableInNonTouchModeElement$1()
+androidx.compose.animation.EnterExitState: androidx.compose.animation.EnterExitState valueOf(java.lang.String)
+androidx.appcompat.widget.SearchView: java.lang.CharSequence getQuery()
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.appcompat.widget.Toolbar: void setSubtitle(java.lang.CharSequence)
+androidx.appcompat.widget.AppCompatTextView: java.lang.CharSequence getText()
+androidx.appcompat.view.menu.ActionMenuItemView: java.lang.CharSequence getAccessibilityClassName()
+androidx.appcompat.widget.ActionMenuView: void setPopupTheme(int)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.compose.ui.contentcapture.ContentCaptureEventType: androidx.compose.ui.contentcapture.ContentCaptureEventType[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.text.internal.InlineClassHelperKt: java.lang.Void throwIllegalArgumentExceptionForNullCheck(java.lang.String)
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.modifier.ModifierLocalManager getModifierLocalManager()
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.appcompat.widget.Toolbar: int getContentInsetStartWithNavigation()
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason valueOf(java.lang.String)
+androidx.fragment.app.SpecialEffectsController$Operation$State: androidx.fragment.app.SpecialEffectsController$Operation$State valueOf(java.lang.String)
+androidx.appcompat.widget.AppCompatTextHelper$Api24Impl: void setTextLocales(android.widget.TextView,android.os.LocaleList)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.focus.FocusOwner getFocusOwner()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle[] values()
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand[] values()
+androidx.compose.ui.node.LookaheadPassDelegate$PlacedState: androidx.compose.ui.node.LookaheadPassDelegate$PlacedState[] values()
+androidx.appcompat.widget.Toolbar: android.graphics.drawable.Drawable getLogo()
+androidx.appcompat.widget.Toolbar: void setCollapseIcon(int)
+androidx.compose.ui.window.Api28Impl: void setLayoutInDisplayCutout(android.view.WindowManager$LayoutParams)
+androidx.compose.ui.platform.ViewLayer: float getFrameRate()
+com.google.android.datatransport.cct.internal.ClientInfo$ClientType: com.google.android.datatransport.cct.internal.ClientInfo$ClientType[] values()
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection valueOf(java.lang.String)
+androidx.appcompat.view.menu.ListMenuItemView: void setSubMenuArrowVisible(boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.appcompat.widget.SearchView$SearchAutoComplete: int getSearchViewTextMinWidthDp()
+androidx.appcompat.widget.ActionBarContextView: void setSubtitle(java.lang.CharSequence)
+androidx.appcompat.widget.ListPopupWindow$Api24Impl: int getMaxAvailableHeight(android.widget.PopupWindow,android.view.View,int,boolean)
+androidx.compose.ui.graphics.layer.ViewLayer: android.view.View getOwnerView()
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus[] values()
+androidx.core.widget.EdgeEffectCompat$Api31Impl: float onPullDistance(android.widget.EdgeEffect,float,float)
+androidx.appcompat.widget.ActionBarContextView: void setContentHeight(int)
+androidx.appcompat.widget.AppCompatTextView: androidx.appcompat.widget.AppCompatEmojiTextHelper getEmojiTextViewHelper()
+androidx.compose.ui.platform.AndroidComposeView: android.view.View getView()
+androidx.compose.ui.platform.AndroidComposeView: int getImportantForAutofill()
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+androidx.appcompat.widget.ActionMenuView: void setExpandedActionViewsExclusive(boolean)
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorSize(long)
+androidx.appcompat.widget.LinearLayoutCompat: int getDividerPadding()
+androidx.compose.ui.window.PopupLayout: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.core.view.ViewCompat$Api21Impl: java.lang.String getTransitionName(android.view.View)
+androidx.appcompat.widget.ActionBarOverlayLayout: void setIcon(android.graphics.drawable.Drawable)
+androidx.appcompat.widget.Toolbar: java.lang.CharSequence getLogoDescription()
+androidx.core.view.WindowInsetsCompat$Impl20: void setSystemUiVisibility(int)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.mlkit.vision.barcode.internal.BarcodeRegistrar: BarcodeRegistrar()
+androidx.appcompat.widget.ActionMenuView: android.graphics.drawable.Drawable getOverflowIcon()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorPeek(long)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+androidx.appcompat.widget.ActionBarOverlayLayout: void setActionBarHideOffset(int)
+androidx.navigation.NavControllerViewModel: NavControllerViewModel()
+androidx.appcompat.view.menu.ListMenuItemView: void setForceShowIcon(boolean)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean systemBarVisibilityEquals(int,int)
+androidx.compose.foundation.text.input.internal.CursorAnchorInfoApi34Helper: android.view.inputmethod.CursorAnchorInfo$Builder addVisibleLineBounds(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.text.TextLayoutResult,androidx.compose.ui.geometry.Rect)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OwnerSnapshotObserver getSnapshotObserver()
+okhttp3.internal.publicsuffix.PublicSuffixDatabase: PublicSuffixDatabase()
+androidx.core.view.WindowInsetsCompat$Impl34: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)

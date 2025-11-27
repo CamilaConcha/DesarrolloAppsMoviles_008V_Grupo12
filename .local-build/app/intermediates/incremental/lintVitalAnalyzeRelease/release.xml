@@ -1,0 +1,32 @@
+<variant
+    name="release"
+    package="com.example.usagi_tienda_app"
+    minSdkVersion="24"
+    targetSdkVersion="36.0"
+    shrinking="true"
+    mergedManifest="C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\intermediates\merged_manifest\release\processReleaseMainManifest\AndroidManifest.xml"
+    proguardFiles="C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\intermediates\default_proguard_files\global\proguard-android-optimize.txt-8.13.1;proguard-rules.pro"
+    partialResultsDir="C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\intermediates\lint_vital_partial_results\release\lintVitalAnalyzeRelease\out"
+    desugaredMethodsFiles="C:\Users\basti\.gradle\caches\8.13\transforms\2721243ed2a6fbe72b835679995bd542\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\release\java;src\main\kotlin;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\intermediates\javac\release\compileReleaseJavaWithJavac\classes;C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\tmp\kotlin-classes\release;C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\kotlinToolingMetadata;C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\generated\ksp\release\resources;C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\processReleaseResources\R.jar"
+      type="MAIN"
+      applicationId="com.example.usagi_tienda_app"
+      generatedSourceFolders="C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\generated\ksp\release\java;C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\generated\ksp\release\kotlin;C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\generated\ap_generated_sources\release\out;C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\generated\source\buildConfig\release"
+      generatedResourceFolders="C:\Users\basti\OneDrive\Escritorio\usagi-tienda-app\.local-build\app\generated\res\resValues\release"
+      desugaredMethodsFiles="C:\Users\basti\.gradle\caches\8.13\transforms\2721243ed2a6fbe72b835679995bd542\transformed\D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

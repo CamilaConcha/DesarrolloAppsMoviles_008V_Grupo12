@@ -25,6 +25,7 @@ import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.PasswordVisualTransformation
+import com.example.usagi_tienda_app.ui.components.UsagiTopBar
 
 @Composable
 fun RegisterScreen(navController: NavController) {
@@ -41,9 +42,9 @@ fun RegisterScreen(navController: NavController) {
     // seleccion de categoria favorita
     // boton de registro
     // fila de filtros de categoria favorita
-    // chip de categoria basico cambia color segun seleccion
-    // tarjeta simple muestra nombre precio y categoria
-    // implementacion simple de flowrow usando row con espaciado no es real
+    // chip de categoría con cambio visual al seleccionar
+    // tarjeta de producto con nombre, precio y categoría
+    // Distribución basada en Row con espaciado horizontal (simple y directa)
     
     val vm: AuthViewModel = viewModel(factory = AuthViewModelFactory(LocalContext.current))
     
@@ -80,6 +81,13 @@ fun RegisterScreen(navController: NavController) {
     }
 
     Scaffold(
+        topBar = {
+            UsagiTopBar(
+                navController = navController,
+                title = "Crear cuenta",
+                showBack = true
+            )
+        },
         snackbarHost = { SnackbarHost(snackbarHostState) }
     ) { padding ->
         Column(
