@@ -62,7 +62,7 @@ Proyecto de tienda en Android, hecho con Kotlin y Jetpack Compose. Incluye auten
 bash
 .\gradlew assembleRelease
 
-- Para firmar, los pasos estan en `app/keystore/README.md`. la configuracion de la firma es de release mediante propiedades en `gradle.properties` y variables de entorno. Si no hay keystore, el build de release usa placeholders seguros.
+- Para firmar, los pasos estan en `app/keystore/README.md`. la configuracion de la firma es de release mediante propiedades en `gradle.properties` y variables de entorno.
 
 ## Notas importantes
 - El checkout es una simulación (no procesa pagos reales).
